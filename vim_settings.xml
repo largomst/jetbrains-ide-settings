@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561537693373">
-        <mark key="'" line="458" column="13" />
-        <mark key="[" line="378" column="28" />
-        <mark key="]" line="378" column="28" />
-        <mark key="^" line="385" column="31" />
-        <mark key="." line="378" column="28" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561539132307">
+        <mark key="'" line="383" column="27" />
+        <mark key="[" line="433" column="30" />
+        <mark key="]" line="434" column="32" />
+        <mark key="^" line="434" column="32" />
+        <mark key="." line="434" column="32" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
@@ -54,7 +54,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="291" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="60" column="47" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
@@ -104,7 +103,6 @@
       <jump line="331" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="357" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="376" column="33" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="378" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="406" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="410" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="441" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -154,52 +152,54 @@
       <jump line="384" column="43" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="370" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="458" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="378" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="383" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>ur_a_line.connected(self.send_)</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>ur_a_line.connected(self.send_)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0V2lkZ2V0XD4=</text>
+        <text encoding="base64">XDx0cmFuc21pdHRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgZGVmIGluaXRfZGVwZW5kYW5jZXMoc2VsZik6CiAgICAgICAgc2VsZi50cmFuc21pdHRlciA9IAogICAgICAgIHNlbGYucmVjZWl2ZXIgPSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maWxlbmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2hhbmdlID0gRmlsZURvd25sb2FkZXJFeGNoYW5nZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNoYW5nZSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0X2RlcGVuZGVudChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGEK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdChnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBhdXRvX3NlbmQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRfbXNncwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgRG93bmxvYWRlcihVaV9Gb3JtLFFXaWRnZXQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwogICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY29udGVudCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4obmFtZSkgPiAxOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY29udGVudCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBuYW1lLnN0cmlwKCkK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0V2lkZ2V0XD4=</last-search>
+      <last-search encoding="base64">XDx0cmFuc21pdHRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0V2lkZ2V0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc21pdHRlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZV9zMTlfZmlsZV90b19jYW5zXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -207,7 +207,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpc3Rlcl90b19yZWNlaXZlclw+</entry>
         <entry encoding="base64">XDxyZWNlaXZlclw+</entry>
         <entry encoding="base64">XDxSZWN2V29ya2VyXD4=</entry>
         <entry>作品</entry>
@@ -227,6 +226,7 @@
         <entry encoding="base64">XDxwYXJzZV9zMTlfZmlsZV90b19jYW5zXD4=</entry>
         <entry encoding="base64">XDxldmVudF9zZW5kX2J0bl9jbGlja2VkXD4=</entry>
         <entry encoding="base64">XDxsaXN0V2lkZ2V0XD4=</entry>
+        <entry encoding="base64">XDx0cmFuc21pdHRlclw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
