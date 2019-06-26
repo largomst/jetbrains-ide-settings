@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561516572916">
-        <mark key="'" line="92" column="31" />
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="21" />
-        <mark key="^" line="59" column="21" />
-        <mark key="." line="59" column="21" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561529351653">
+        <mark key="'" line="261" column="4" />
+        <mark key="[" line="62" column="54" />
+        <mark key="]" line="62" column="53" />
+        <mark key="^" line="62" column="53" />
+        <mark key="." line="62" column="53" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
@@ -54,43 +54,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="28" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="8" column="11" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="30" column="20" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="72" column="7" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="286" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="258" column="11" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="245" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="272" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="237" column="13" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="264" column="33" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="233" column="25" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="281" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="208" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="163" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="153" column="8" filename="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-462352427/PyQt5/QtWidgets/QFileDialog.py" />
-      <jump line="230" column="22" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="261" column="13" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="225" column="23" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="289" column="43" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="57" column="50" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="162" column="22" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="168" column="16" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="178" column="13" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="179" column="10" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="180" column="10" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="229" column="17" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="238" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="25" column="34" filename="$USER_HOME$/Desktop/BMS/main.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/Desktop/BMS/main.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Desktop/s19gui/src/main/python/main.py" />
       <jump line="83" column="22" filename="$USER_HOME$/Desktop/s19gui/src/main/python/main.py" />
-      <jump line="288" column="19" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="258" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="195" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="222" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -101,9 +66,7 @@
       <jump line="289" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="292" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="296" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="299" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="300" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="301" column="58" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="311" column="2" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="140" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="141" column="38" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -113,7 +76,6 @@
       <jump line="225" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="242" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="322" column="33" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="257" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="256" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="264" column="18" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="271" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -154,65 +116,95 @@
       <jump line="212" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="50" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="92" column="31" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="61" column="46" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="494" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="532" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="265" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="268" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="279" column="51" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="281" column="55" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="288" column="47" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="290" column="51" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="299" column="43" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="301" column="47" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="512" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="508" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="366" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="364" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="362" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="331" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="357" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="370" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="376" column="33" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="378" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="406" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="410" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="441" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="484" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="485" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="517" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="520" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="521" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="526" column="47" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="528" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="191" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="217" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="218" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="253" column="57" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="257" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="261" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sbuscribers</text>
+        <text>important</text>
       </register>
       <register name="-" type="4">
-        <text>sbuscribers</text>
+        <text>important</text>
       </register>
       <register name="/" type="4">
-        <text>作品</text>
+        <text>\csender</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CgpjbGFzcyBTdWJqZWN0OgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuc3Vic2NyaWJlcnMgPSBzZXQoKQoKICAgIGRlZiBhdHRhY2goc2VsZiwgZnVuYyk6CiAgICAgICAgc2VsZi5zdWJzY3JpYmVycy5hZGQoZnVuYykKCiAgICBkZWYgZGV0YWNoKHNlbGYsIGZ1bmMpOgogICAgICAgIHNlbGYuc3Vic2NyaWJlcnMucmVtb3ZlKGZ1bmMpCgogICAgZGVmIG5vdGlmdHkoc2VsZiwgbXNnKToKICAgICAgICBmb3Igc3Vic2NyaWJlciBpbiBzZWxmLnN1YnNjcmliZXJzOgogICAgICAgICAgICBzdWJzY3JpYmVyKG1zZykKCgpjbGFzcyBTZW5kV29ya2VyKFN1YmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1czogQnVzKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLmJ1cyA9IGJ1cwoKICAgIGRlZiBzZW5kKHNlbGYsIG1zZzogTWVzc2FnZSk6CiAgICAgICAgc2VsZi5idXMuc2VuZChtc2cpCiAgICAgICAgc2VsZi5ub3RpZnR5KG1zZykKCgpjbGFzcyBSZWN2V29ya2VyKFN1YmplY3QsIHRocmVhZGluZy5UaHJlYWQpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1czogQnVzKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCiAgICAgICAgc2VsZi5idXMgPSBidXMKICAgICAgICBzZWxmLmdvID0gVHJ1ZQoKICAgIGRlZiBydW4oc2VsZik6CiAgICAgICAgd2hpbGUgc2VsZi5nbzoKICAgICAgICAgICAgbXNnID0gc2VsZi5idXMucmVjdigpCiAgICAgICAgICAgIGZvciBzdWJzY3JpYmVyIGluIHNlbGYuc2J1c2NyaWJlcjoKICAgICAgICAgICAgICAgIHN1YnNjcmliZXIobXNnKQogICAgICAgICAgICAjIFRPRE8gsPO2qCBsb2dnZXIKCiAgICBkZWYgc3RvcChzZWxmKToKICAgICAgICBzZWxmLmdvID0gRmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIG1zZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlciA9IHJlCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZW5kKHNlbGYsIG1zZyk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihSZWN2V29ya2VyLCBzZWxmKS5fX2luaXRfXyguKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlci5zZXRPYmplY3ROYW1lKCJyZWNlaXZlciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlci4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpjbGFzcyBSZWN2V29ya2VyKFFUaHJlYWQpOgogICAgIiIi08PT2r3Tyty84Mz9z/vPoqOssqLNqLn9IG1zZ3NpZyDAtLX308PQ6NKqz/vPorXEuq/K/SIiIgoKICAgIG1zZ3NpZyA9IHB5cXRTaWduYWwoTWVzc2FnZSkKCiAgICBkZWYgX19pbml0X18oc2VsZiwgYnVzOiBCdXMpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuYnVzID0gYnVzCiAgICAgICAgc2VsZi5nbyA9IFRydWUKCiAgICBkZWYgYXR0YWNoKHNlbGYsIGZ1bmMpOgogICAgICAgIHNlbGYubXNnc2lnLmNvbm5lY3QoZnVuYykKCiAgICBkZWYgZGV0YWNoKHNlbGYsIGZ1bmMpOgogICAgICAgIHNlbGYubXNnc2lnLmRpc2Nvbm5lY3QoZnVuYykKCiAgICBAcHlxdFNsb3QoKQogICAgZGVmIHJ1bihzZWxmKToKICAgICAgICB3aGlsZSBzZWxmLmdvOgogICAgICAgICAgICBtc2cgPSBzZWxmLmJ1cy5yZWN2KHRpbWVvdXQ9MC4wMSkKICAgICAgICAgICAgaWYgbXNnOgogICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKGYicmVjZWl2ZXIgZ290IHttc2d9IikKICAgICAgICAgICAgICAgIHNlbGYubXNnc2lnLmVtaXQobXNnKQoKICAgIGRlZiBzdG9wKHNlbGYpOgogICAgICAgIHNlbGYuZ28gPSBGYWxzZQoK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlciA9IHJlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>作品</last-search>
+      <last-search>\csender</last-search>
       <last-offset />
-      <last-pattern>作品</last-pattern>
+      <last-pattern>\csender</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
-        <entry>self.btn_</entry>
-        <entry>self.btn_send</entry>
-        <entry>downloader</entry>
-        <entry>Down</entry>
-        <entry>错误</entry>
-        <entry>logger</entry>
-        <entry encoding="base64">XDxidXR0b25faW1wb3J0XD4=</entry>
         <entry encoding="base64">XDxtYWluV2luZG93Qm94XD4=</entry>
         <entry encoding="base64">XDxzdGFydF9ydW5fcHJvZ3JhbVw+</entry>
         <entry encoding="base64">XDxkb19tb3Rvcl9zdG9wXD4=</entry>
@@ -225,6 +217,14 @@
         <entry encoding="base64">XDxyZWNlaXZlclw+</entry>
         <entry encoding="base64">XDxSZWN2V29ya2VyXD4=</entry>
         <entry>作品</entry>
+        <entry>fielsend</entry>
+        <entry>file</entry>
+        <entry encoding="base64">XDxjbXBfbXNnXD4=</entry>
+        <entry>cmp</entry>
+        <entry>send</entry>
+        <entry>sender</entry>
+        <entry>Sender</entry>
+        <entry>\csender</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -263,6 +263,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
