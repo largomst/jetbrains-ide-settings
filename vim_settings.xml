@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561529351653">
-        <mark key="'" line="261" column="4" />
-        <mark key="[" line="62" column="54" />
-        <mark key="]" line="62" column="53" />
-        <mark key="^" line="62" column="53" />
-        <mark key="." line="62" column="53" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561531200230">
+        <mark key="'" line="439" column="17" />
+        <mark key="[" line="359" column="35" />
+        <mark key="]" line="359" column="35" />
+        <mark key="^" line="359" column="35" />
+        <mark key="." line="359" column="35" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
@@ -54,14 +54,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Desktop/s19gui/src/main/python/main.py" />
-      <jump line="83" column="22" filename="$USER_HOME$/Desktop/s19gui/src/main/python/main.py" />
-      <jump line="258" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="195" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="222" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="223" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="48" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="315" column="36" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="307" column="63" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="289" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="292" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -154,59 +146,65 @@
       <jump line="253" column="57" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="257" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="261" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="337" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="344" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="346" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="352" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="354" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="80" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="258" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="439" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>important</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>important</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>\csender</text>
+        <text encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CgpjbGFzcyBTdWJqZWN0OgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuc3Vic2NyaWJlcnMgPSBzZXQoKQoKICAgIGRlZiBhdHRhY2goc2VsZiwgZnVuYyk6CiAgICAgICAgc2VsZi5zdWJzY3JpYmVycy5hZGQoZnVuYykKCiAgICBkZWYgZGV0YWNoKHNlbGYsIGZ1bmMpOgogICAgICAgIHNlbGYuc3Vic2NyaWJlcnMucmVtb3ZlKGZ1bmMpCgogICAgZGVmIG5vdGlmdHkoc2VsZiwgbXNnKToKICAgICAgICBmb3Igc3Vic2NyaWJlciBpbiBzZWxmLnN1YnNjcmliZXJzOgogICAgICAgICAgICBzdWJzY3JpYmVyKG1zZykKCgpjbGFzcyBTZW5kV29ya2VyKFN1YmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1czogQnVzKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLmJ1cyA9IGJ1cwoKICAgIGRlZiBzZW5kKHNlbGYsIG1zZzogTWVzc2FnZSk6CiAgICAgICAgc2VsZi5idXMuc2VuZChtc2cpCiAgICAgICAgc2VsZi5ub3RpZnR5KG1zZykKCgpjbGFzcyBSZWN2V29ya2VyKFN1YmplY3QsIHRocmVhZGluZy5UaHJlYWQpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1czogQnVzKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCiAgICAgICAgc2VsZi5idXMgPSBidXMKICAgICAgICBzZWxmLmdvID0gVHJ1ZQoKICAgIGRlZiBydW4oc2VsZik6CiAgICAgICAgd2hpbGUgc2VsZi5nbzoKICAgICAgICAgICAgbXNnID0gc2VsZi5idXMucmVjdigpCiAgICAgICAgICAgIGZvciBzdWJzY3JpYmVyIGluIHNlbGYuc2J1c2NyaWJlcjoKICAgICAgICAgICAgICAgIHN1YnNjcmliZXIobXNnKQogICAgICAgICAgICAjIFRPRE8gsPO2qCBsb2dnZXIKCiAgICBkZWYgc3RvcChzZWxmKToKICAgICAgICBzZWxmLmdvID0gRmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIG1zZwo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZW5kKHNlbGYsIG1zZyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVzcDogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gtdrSu8z1way908/7z6LQ6NKq1ve2r7eiy80K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5vdGlmdHkobmV4dChnKSkgICMgVE9ETyC9qyBTZW5kILXEIHNlbmQg16Ky4bW9zajWqre9t6jJzwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlci4K</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE8gvasgU2VuZCC1xCBzZW5kINeisuG1vc2o1qq3vbeoyc8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlciA9IHJlCg==</text>
+        <text encoding="base64">ZGVmIGNtcCgpOgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>\csender</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</last-search>
       <last-offset />
-      <last-pattern>\csender</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWluV2luZG93Qm94XD4=</entry>
-        <entry encoding="base64">XDxzdGFydF9ydW5fcHJvZ3JhbVw+</entry>
         <entry encoding="base64">XDxkb19tb3Rvcl9zdG9wXD4=</entry>
         <entry>qt.</entry>
         <entry>stat</entry>
@@ -225,6 +223,8 @@
         <entry>sender</entry>
         <entry>Sender</entry>
         <entry>\csender</entry>
+        <entry>yield</entry>
+        <entry encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -266,6 +266,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
