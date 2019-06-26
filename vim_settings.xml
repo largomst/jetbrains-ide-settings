@@ -15,7 +15,7 @@
       <file name="/Dummy.txt" timestamp="1558404674159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1561513506815">
+      <file name="/Python Console" timestamp="1561515801652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561513203575">
@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561513746664">
-        <mark key="'" line="50" column="40" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561516572916">
+        <mark key="'" line="92" column="31" />
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="21" />
+        <mark key="^" line="59" column="21" />
+        <mark key="." line="59" column="21" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
@@ -54,7 +54,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
       <jump line="25" column="28" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
       <jump line="8" column="11" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
       <jump line="29" column="8" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
@@ -154,19 +153,20 @@
       <jump line="396" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="212" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="50" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="92" column="31" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
+      <register name="&quot;" type="4">
+        <text>sbuscribers</text>
       </register>
       <register name="-" type="4">
-        <text>Thread</text>
+        <text>sbuscribers</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWN2V29ya2VyXD4=</text>
+        <text>作品</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkLnNldEljb24oMCwgUUljb24oJy4vcmVzb3VyY2VzL2JhdHRlcnktLWV4Y2xhbWF0aW9uLnBuZycpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgpjbGFzcyBTdWJqZWN0OgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuc3Vic2NyaWJlcnMgPSBzZXQoKQoKICAgIGRlZiBhdHRhY2goc2VsZiwgZnVuYyk6CiAgICAgICAgc2VsZi5zdWJzY3JpYmVycy5hZGQoZnVuYykKCiAgICBkZWYgZGV0YWNoKHNlbGYsIGZ1bmMpOgogICAgICAgIHNlbGYuc3Vic2NyaWJlcnMucmVtb3ZlKGZ1bmMpCgogICAgZGVmIG5vdGlmdHkoc2VsZiwgbXNnKToKICAgICAgICBmb3Igc3Vic2NyaWJlciBpbiBzZWxmLnN1YnNjcmliZXJzOgogICAgICAgICAgICBzdWJzY3JpYmVyKG1zZykKCgpjbGFzcyBTZW5kV29ya2VyKFN1YmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1czogQnVzKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLmJ1cyA9IGJ1cwoKICAgIGRlZiBzZW5kKHNlbGYsIG1zZzogTWVzc2FnZSk6CiAgICAgICAgc2VsZi5idXMuc2VuZChtc2cpCiAgICAgICAgc2VsZi5ub3RpZnR5KG1zZykKCgpjbGFzcyBSZWN2V29ya2VyKFN1YmplY3QsIHRocmVhZGluZy5UaHJlYWQpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1czogQnVzKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkKCiAgICAgICAgc2VsZi5idXMgPSBidXMKICAgICAgICBzZWxmLmdvID0gVHJ1ZQoKICAgIGRlZiBydW4oc2VsZik6CiAgICAgICAgd2hpbGUgc2VsZi5nbzoKICAgICAgICAgICAgbXNnID0gc2VsZi5idXMucmVjdigpCiAgICAgICAgICAgIGZvciBzdWJzY3JpYmVyIGluIHNlbGYuc2J1c2NyaWJlcjoKICAgICAgICAgICAgICAgIHN1YnNjcmliZXIobXNnKQogICAgICAgICAgICAjIFRPRE8gsPO2qCBsb2dnZXIKCiAgICBkZWYgc3RvcChzZWxmKToKICAgICAgICBzZWxmLmdvID0gRmFsc2UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
@@ -197,15 +197,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWN2V29ya2VyXD4=</last-search>
+      <last-search>作品</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWN2V29ya2VyXD4=</last-pattern>
+      <last-pattern>作品</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcmJpdHJhdGlvbl9pZFw+</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>self.btn_</entry>
         <entry>self.btn_send</entry>
@@ -225,6 +224,7 @@
         <entry encoding="base64">XDxyZWdpc3Rlcl90b19yZWNlaXZlclw+</entry>
         <entry encoding="base64">XDxyZWNlaXZlclw+</entry>
         <entry encoding="base64">XDxSZWN2V29ya2VyXD4=</entry>
+        <entry>作品</entry>
       </history-search>
       <history-cmd />
       <history-expr />
