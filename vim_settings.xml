@@ -15,7 +15,10 @@
       <file name="/Dummy.txt" timestamp="1558404674159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1560759711855">
+      <file name="/Python Console" timestamp="1561513506815">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1561513203575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" timestamp="1560846663142">
@@ -35,6 +38,13 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561513746664">
+        <mark key="'" line="50" column="40" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="423" column="16" />
@@ -44,20 +54,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="745" column="12" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" />
-      <jump line="49" column="12" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" />
-      <jump line="52" column="8" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" />
-      <jump line="53" column="8" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" />
-      <jump line="2" column="26" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="55" column="50" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
       <jump line="21" column="12" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
       <jump line="25" column="28" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
       <jump line="8" column="11" filename="$USER_HOME$/Desktop/pyqt_experiment/main.py" />
@@ -130,7 +126,6 @@
       <jump line="101" column="14" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="119" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="201" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="251" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="291" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="60" column="47" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
@@ -144,63 +139,72 @@
       <jump line="599" column="8" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
       <jump line="2" column="0" filename="D:/Desktop/TreeWidget/LearningTreeWidget.py" />
       <jump line="81" column="0" filename="D:/Desktop/TreeWidget/LearningTreeWidget.py" />
+      <jump line="75" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="420" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="78" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="423" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="213" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="214" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="236" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="240" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="251" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="326" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="327" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="393" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="396" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="212" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="50" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbmRleCkK</text>
+        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
       </register>
       <register name="-" type="4">
-        <text># 生成一个 self.tree 的子对象, self.tree 是 root 的 parent</text>
+        <text>Thread</text>
       </register>
       <register name="/" type="4">
-        <text>stat</text>
+        <text encoding="base64">XDxSZWN2V29ya2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkLnNldEljb24oMCwgUUljb24oJy4vcmVzb3VyY2VzL2JhdHRlcnktLWV4Y2xhbWF0aW9uLnBuZycpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbmRleCkK</text>
+        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlci4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJvb3Quc2V0VGV4dCgxLCAiIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlciA9IHJlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJhci5zZXRUb29sVGlwKCdoaScpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihSZWN2V29ya2VyLCBzZWxmKS5fX2luaXRfXyguKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXIuc2V0VG9vbFRpcCgnaGknKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWNlaXZlci5zZXRPYmplY3ROYW1lKCJyZWNlaXZlciIpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhYmVsID0gUUxhYmVsKCdJVEVNJykK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgpjbGFzcyBSZWN2V29ya2VyKFFUaHJlYWQpOgogICAgIiIi08PT2r3Tyty84Mz9z/vPoqOssqLNqLn9IG1zZ3NpZyDAtLX308PQ6NKqz/vPorXEuq/K/SIiIgoKICAgIG1zZ3NpZyA9IHB5cXRTaWduYWwoTWVzc2FnZSkKCiAgICBkZWYgX19pbml0X18oc2VsZiwgYnVzOiBCdXMpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuYnVzID0gYnVzCiAgICAgICAgc2VsZi5nbyA9IFRydWUKCiAgICBkZWYgYXR0YWNoKHNlbGYsIGZ1bmMpOgogICAgICAgIHNlbGYubXNnc2lnLmNvbm5lY3QoZnVuYykKCiAgICBkZWYgZGV0YWNoKHNlbGYsIGZ1bmMpOgogICAgICAgIHNlbGYubXNnc2lnLmRpc2Nvbm5lY3QoZnVuYykKCiAgICBAcHlxdFNsb3QoKQogICAgZGVmIHJ1bihzZWxmKToKICAgICAgICB3aGlsZSBzZWxmLmdvOgogICAgICAgICAgICBtc2cgPSBzZWxmLmJ1cy5yZWN2KHRpbWVvdXQ9MC4wMSkKICAgICAgICAgICAgaWYgbXNnOgogICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKGYicmVjZWl2ZXIgZ290IHttc2d9IikKICAgICAgICAgICAgICAgIHNlbGYubXNnc2lnLmVtaXQobXNnKQoKICAgIGRlZiBzdG9wKHNlbGYpOgogICAgICAgIHNlbGYuZ28gPSBGYWxzZQoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>stat</last-search>
+      <last-search encoding="base64">XDxSZWN2V29ya2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>stat</last-pattern>
+      <last-pattern encoding="base64">XDxSZWN2V29ya2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>QFile</entry>
-        <entry>send</entry>
-        <entry encoding="base64">XDxTZW5kX1RocmVhZFw+</entry>
-        <entry>self.send</entry>
-        <entry>sender</entry>
-        <entry>Sender</entry>
         <entry encoding="base64">XDxhcmJpdHJhdGlvbl9pZFw+</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>self.btn_</entry>
@@ -215,6 +219,12 @@
         <entry encoding="base64">XDxkb19tb3Rvcl9zdG9wXD4=</entry>
         <entry>qt.</entry>
         <entry>stat</entry>
+        <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
+        <entry encoding="base64">XDxhdHRhY2hcPg==</entry>
+        <entry encoding="base64">XDxkZXJlZ2lzdGVyXD4=</entry>
+        <entry encoding="base64">XDxyZWdpc3Rlcl90b19yZWNlaXZlclw+</entry>
+        <entry encoding="base64">XDxyZWNlaXZlclw+</entry>
+        <entry encoding="base64">XDxSZWN2V29ya2VyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -250,6 +260,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
