@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561539132307">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561542191649">
         <mark key="'" line="383" column="27" />
-        <mark key="[" line="433" column="30" />
-        <mark key="]" line="434" column="32" />
-        <mark key="^" line="434" column="32" />
-        <mark key="." line="434" column="32" />
+        <mark key="[" line="426" column="28" />
+        <mark key="]" line="426" column="7" />
+        <mark key="." line="426" column="7" />
+        <mark key="^" line="426" column="7" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
@@ -156,11 +156,11 @@
       <jump line="383" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ur_a_line.connected(self.send_)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ur_a_line.connected(self.send_)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc21pdHRlclw+</text>
@@ -169,31 +169,31 @@
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maWxlbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNoYW5nZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2hhbmdlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdChnKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRfbXNncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maWxlbmFtZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBleGNoYW5nZSA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4obmFtZSkgPiAxOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuYW1lLnN0cmlwKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdChnKQo=</text>
       </register>
     </registers>
     <search>
