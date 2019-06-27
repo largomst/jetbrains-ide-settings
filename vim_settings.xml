@@ -3,19 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/BMS/main.py" timestamp="1558419952838">
-        <mark key="'" line="25" column="34" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
-      </file>
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1558404674159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1561515801652">
+      <file name="/Python Console" timestamp="1561598736306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561513203575">
@@ -38,12 +32,30 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561542191649">
-        <mark key="'" line="383" column="27" />
-        <mark key="[" line="426" column="28" />
-        <mark key="]" line="426" column="7" />
-        <mark key="." line="426" column="7" />
-        <mark key="^" line="426" column="7" />
+      <file name="/a.dummy" timestamp="1561598265717">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/BMS/main.py" timestamp="1558419952838">
+        <mark key="'" line="25" column="34" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+      </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/FileDownloaderExchange.py" timestamp="1561598004939">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561598782974">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="^" line="9" column="104" />
+        <mark key="." line="227" column="0" />
+      </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
@@ -54,19 +66,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="60" column="47" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="105" column="13" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="31" column="28" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="160" column="8" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="40" column="50" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="184" column="16" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="241" column="12" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="616" column="4" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="599" column="8" filename="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" />
-      <jump line="2" column="0" filename="D:/Desktop/TreeWidget/LearningTreeWidget.py" />
-      <jump line="81" column="0" filename="D:/Desktop/TreeWidget/LearningTreeWidget.py" />
       <jump line="75" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="420" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="78" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -138,7 +137,6 @@
       <jump line="297" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="316" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="320" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="330" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="350" column="37" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="452" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="461" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -154,52 +152,66 @@
       <jump line="458" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="378" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="383" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="2" column="37" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/FileDownloaderExchange.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/FileDownloaderExchange.py" />
+      <jump line="541" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" />
+      <jump line="581" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="590" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="46" column="32" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="328" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="330" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="538" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="229" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgpkZWYgZ2VuZXJhdG9yX2F1dG9fc2VuZChzZW5kZXIsIHMxOV9jb250ZW50LCBjYWxsYmFjaz1sYW1iZGEgeDogTm9uZSk6CiAgICBjbnQgPSAwCiAgICBsaW5lcyA9IHMxOV9jb250ZW50LnN0cmlwKCkuc3BsaXQoIlxuIikKICAgIGxlbmd0aCA9IGxlbihsaW5lcykKICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoKipwcm90b2NvbF90b19kaWN0KFBST1RPQ0FMLkRPV05fTElOSyksIGlzX2V4dGVuZGVkX2lkPUZhbHNlKSkKICAgIHdoaWxlIFRydWU6CiAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgaWYgcmVzcC5hcmJpdHJhdGlvbl9pZCA9PSAweEM4OiAgIyDWu73TytzQrdLpz/vPogogICAgICAgICAgICBpZiBjbXBfbXNnX3Byb3RvY2FsKHJlc3AsIFBST1RPQ0FMLlVQX0JVU1kpOgogICAgICAgICAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4Qzg6CiAgICAgICAgICAgICAgICAgICAgaWYgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9SRUFEWSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcGFzcwoKICAgIGZvciBsaW5lIGluIGxpbmVzOgogICAgICAgIGZvciBjaHVuayBpbiBzcGxpdF9zMTlfbGluZShsaW5lKToKICAgICAgICAgICAgZGF0YSA9IGJ5dGVhcnJheShjaHVuay5lbmNvZGUoImFzY2lpIikpCiAgICAgICAgICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoYXJiaXRyYXRpb25faWQ9MHg2NCwgZGF0YT1kYXRhLCBpc19leHRlbmRlZF9pZD1GYWxzZSkpCiAgICAgICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9CVVNZKToKICAgICAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4QzggYW5kIGNtcF9tc2dfcHJvdG9jYWwocmVzcCwgUFJPVE9DQUwuVVBfUkVBRFkpOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgIHNlbmRlci5zZW5kKAogICAgICAgICAgICBNZXNzYWdlKCoqcHJvdG9jb2xfdG9fZGljdChQUk9UT0NBTC5ET1dOX0xJTkVfRU5EKSwgaXNfZXh0ZW5kZWRfaWQ9RmFsc2UpCiAgICAgICAgKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHJlc3AgPSB5aWVsZAogICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4QzggYW5kIGNtcF9tc2dfcHJvdG9jYWwocmVzcCwgUFJPVE9DQUwuVVBfQlVTWSk6CiAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9SRUFEWSk6CiAgICAgICAgICAgICAgICAgICAgY250ICs9IDEKICAgICAgICAgICAgICAgICAgICBjYWxsYWJsZShjbnQpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHBhc3MKICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoKipwcm90b2NvbF90b19kaWN0KFBST1RPQ0FMLkRPV05fRklMRV9FTkQpLCBpc19leHRlbmRlZF9pZD1GYWxzZSkpCiAgICB3aGlsZSBUcnVlOgogICAgICAgIHJlc3AgPSB5aWVsZAogICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9CVVNZKToKICAgICAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9QUkdFTkQpOgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIs7EvP63osvNzeqzySIpCiAgICAgICAgICAgICAgICBicmVhawoK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc21pdHRlclw+</text>
+        <text encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpkZWYgZ2VuZXJhdG9yX2F1dG9fc2VuZChzZW5kZXIsIHMxOV9jb250ZW50LCBjYWxsYmFjaz1sYW1iZGEgeDogTm9uZSk6CiAgICBjbnQgPSAwCiAgICBsaW5lcyA9IHMxOV9jb250ZW50LnN0cmlwKCkuc3BsaXQoIlxuIikKICAgIGxlbmd0aCA9IGxlbihsaW5lcykKICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoKipwcm90b2NvbF90b19kaWN0KFBST1RPQ0FMLkRPV05fTElOSyksIGlzX2V4dGVuZGVkX2lkPUZhbHNlKSkKICAgIHdoaWxlIFRydWU6CiAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgaWYgcmVzcC5hcmJpdHJhdGlvbl9pZCA9PSAweEM4OiAgIyDWu73TytzQrdLpz/vPogogICAgICAgICAgICBpZiBjbXBfbXNnX3Byb3RvY2FsKHJlc3AsIFBST1RPQ0FMLlVQX0JVU1kpOgogICAgICAgICAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4Qzg6CiAgICAgICAgICAgICAgICAgICAgaWYgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9SRUFEWSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcGFzcwoKICAgIGZvciBsaW5lIGluIGxpbmVzOgogICAgICAgIGZvciBjaHVuayBpbiBzcGxpdF9zMTlfbGluZShsaW5lKToKICAgICAgICAgICAgZGF0YSA9IGJ5dGVhcnJheShjaHVuay5lbmNvZGUoImFzY2lpIikpCiAgICAgICAgICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoYXJiaXRyYXRpb25faWQ9MHg2NCwgZGF0YT1kYXRhLCBpc19leHRlbmRlZF9pZD1GYWxzZSkpCiAgICAgICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9CVVNZKToKICAgICAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4QzggYW5kIGNtcF9tc2dfcHJvdG9jYWwocmVzcCwgUFJPVE9DQUwuVVBfUkVBRFkpOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgIHNlbmRlci5zZW5kKAogICAgICAgICAgICBNZXNzYWdlKCoqcHJvdG9jb2xfdG9fZGljdChQUk9UT0NBTC5ET1dOX0xJTkVfRU5EKSwgaXNfZXh0ZW5kZWRfaWQ9RmFsc2UpCiAgICAgICAgKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHJlc3AgPSB5aWVsZAogICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4QzggYW5kIGNtcF9tc2dfcHJvdG9jYWwocmVzcCwgUFJPVE9DQUwuVVBfQlVTWSk6CiAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9SRUFEWSk6CiAgICAgICAgICAgICAgICAgICAgY250ICs9IDEKICAgICAgICAgICAgICAgICAgICBjYWxsYWJsZShjbnQpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHBhc3MKICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoKipwcm90b2NvbF90b19kaWN0KFBST1RPQ0FMLkRPV05fRklMRV9FTkQpLCBpc19leHRlbmRlZF9pZD1GYWxzZSkpCiAgICB3aGlsZSBUcnVlOgogICAgICAgIHJlc3AgPSB5aWVsZAogICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9CVVNZKToKICAgICAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9QUkdFTkQpOgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIs7EvP63osvNzeqzySIpCiAgICAgICAgICAgICAgICBicmVhawoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4Y2hhbmdlLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKUHJvdG9jb2wgPSBuYW1lZHR1cGxlKCJQcm90b2NhbCIsICJhcmJpdHJhdGlvbl9pZCBkYXRhIikKCgpjbGFzcyBQUk9UT0NBTDoKICAgIERPV05fTElOSyA9IFByb3RvY29sKGFyYml0cmF0aW9uX2lkPTB4NjQsIGRhdGE9Ynl0ZWFycmF5KFsweEZGXSkpCiAgICBET1dOX0xJTkVfRU5EID0gUHJvdG9jb2woYXJiaXRyYXRpb25faWQ9MHg2NCwgZGF0YT1ieXRlYXJyYXkoWzB4RkVdKSkKICAgIERPV05fRklMRV9FTkQgPSBQcm90b2NvbChhcmJpdHJhdGlvbl9pZD0weDY0LCBkYXRhPWJ5dGVhcnJheShbMHhGRF0pKQogICAgVVBfUkVBRFkgPSBQcm90b2NvbChhcmJpdHJhdGlvbl9pZD0weEM4LCBkYXRhPWJ5dGVhcnJheShbMHhDM10pKQogICAgVVBfQlVTWSA9IFByb3RvY29sKGFyYml0cmF0aW9uX2lkPTB4QzgsIGRhdGE9Ynl0ZWFycmF5KFsweEMyXSkpCiAgICBVUF9QUkdFTkQgPSBQcm90b2NvbChhcmJpdHJhdGlvbl9pZD0weEM4LCBkYXRhPWJ5dGVhcnJheShbMHhDMV0pKQogICAgVVBfRVJSID0gUHJvdG9jb2woYXJiaXRyYXRpb25faWQ9MHhDOCwgZGF0YT1ieXRlYXJyYXkoWzB4MDBdKSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkaWN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIHB0ZChtc2cpIC0+IGRpY3Q6Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5maWxlbmFtZQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmNsYXNzIEZpbGVEb3dubG9hZGVyRXhjaGFuZ2UoU3ViamVjdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgZmlsZW5hbWUpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuZ28gPSBUcnVlCiAgICAgICAgd2l0aCBvcGVuKGZpbGVuYW1lKSBhcyBmOgogICAgICAgICAgICBzZWxmLmxpbmVzID0gZi5yZWFkbGluZXMoKQogICAgICAgIHNlbGYubGluZV9jbnQgPSBsZW4oc2VsZi5saW5lcykKICAgICAgICBzZWxmLmxpbmVfbm8gPSAwCiAgICAgICAgc2VsZi5jYW5fbm8gPSAwCgogICAgZGVmIGRyaXZlcihzZWxmKToKICAgICAgICBmb3IgbGluZSBpbiBzZWxmLmxpbmVzOgogICAgICAgICAgICBjaHVua3MgPSBzcGxpdF9zMTlfbGluZShsaW5lKQogICAgICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtzOgogICAgICAgICAgICAgICAgZGF0YSA9IGJ5dGVhcnJheShjaHVuaywgZW5jb2Rpbmc9ImFzY2lpIikKICAgICAgICAgICAgICAgIGNodW5rX21zZyA9IE1lc3NhZ2UoCiAgICAgICAgICAgICAgICAgICAgYXJiaXRyYXRpb25faWQ9MHg2NCwgZGF0YT1kYXRhLCBpc19leHRlbmRlZF9pZD1GYWxzZQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgeWllbGQgY2h1bmtfbXNnCiAgICAgICAgICAgICAgICBzZWxmLmNhbl9ubyArPSAxCiAgICAgICAgICAgIHNlbGYubGluZV9ubyArPSAxCiAgICAgICAgICAgIGxpbmVfZW5kX21zZyA9IE1lc3NhZ2UoCiAgICAgICAgICAgICAgICAqKnByb3RvY2FsX3RvX2RpY3QoUFJPVE9DQUwuRE9XTl9MSU5FX0VORCksIGlzX2V4dGVuZGVkX2lkPUZhbHNlCiAgICAgICAgICAgICkKICAgICAgICAgICAgeWllbGQgbGluZV9lbmRfbXNnCiAgICAgICAgICAgIHNlbGYuY2FuX25vICs9IDEKICAgICAgICBmaWxlX2VuZF9tc2cgPSBNZXNzYWdlKAogICAgICAgICAgICAqKnByb3RvY2FsX3RvX2RpY3QoUFJPVE9DQUwuRE9XTl9GSUxFX0VORCksIGlzX2V4dGVuZGVkX2lkPUZhbHNlCiAgICAgICAgKQogICAgICAgIHlpZWxkIGZpbGVfZW5kX21zZwoKICAgIGRlZiBzZW5kKHNlbGYsIHJlc3A6IE1lc3NhZ2UpOgogICAgICAgICIiIgogICAgICAgILjDt723qNDo0qrXorLhtb2908rcuq/K/cnPo6zNqLn9z8LOu7v6tcS3tbvYtcTP+8+iwLTH/bav0a27t7T6wuu1xNa00NChowogICAgICAgIM6qwcu0pbeiz8LOu7v6t6LLzc/s06ajrNfuv6rKvNDo0qrNqLn9IFVJILeiy83BrL3Tx+vH88/7z6KhowogICAgICAgICIiIgogICAgICAgIGcgPSBzZWxmLmRyaXZlcigpCiAgICAgICAgd2hpbGUgc2VsZi5nbzoKICAgICAgICAgICAgaWYgY21wKHJlc3AsIFBST1RPQ0FMLlVQX1JFQURZKToKICAgICAgICAgICAgICAgIG1zZyA9IG5leHQoZykKICAgICAgICAgICAgICAgIHNlbGYubm90aWZ0eShtc2cpICAjILeiy83Q0LrFus3P+8+io6y21NPavdPK3LLOyv26r8r9o6zKudPDIGxhbWJkYSDAtLn9wsuyzsr9CiAgICAgICAgICAgIGVsaWYgY21wKHJlc3AsIFBST1RPQ0FMLlVQX0JVU1kpOgogICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICBlbGlmIGNtcChyZXNwLCBQUk9UT0NBTC5VUF9QUkdFTkQpOgogICAgICAgICAgICAgICAgZy5jbG9zZSgpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwYXNzCgogICAgICAgICMgVE9ETyC9q7jDt723qNeisuG1vbXEIFJlY3Ygyc+jrNPJxuTH/bavCgogICAgZGVmIGdldF9tc2dzKHNlbGYpOgogICAgICAgIGcgPSBzZWxmLmRyaXZlcigpCiAgICAgICAgcmV0dXJuIGxpc3QoZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNoYW5nZSA9IAo=</text>
+        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZwo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdChnKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc21pdHRlclw+</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc21pdHRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZV9zMTlfZmlsZV90b19jYW5zXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -207,7 +219,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNlaXZlclw+</entry>
         <entry encoding="base64">XDxSZWN2V29ya2VyXD4=</entry>
         <entry>作品</entry>
         <entry>fielsend</entry>
@@ -219,14 +230,15 @@
         <entry>Sender</entry>
         <entry>\csender</entry>
         <entry>yield</entry>
-        <entry encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</entry>
         <entry>chunks</entry>
         <entry encoding="base64">XDxzcGxpdF9zMTlfbGluZVw+</entry>
-        <entry encoding="base64">XDxwdGRcPg==</entry>
         <entry encoding="base64">XDxwYXJzZV9zMTlfZmlsZV90b19jYW5zXD4=</entry>
         <entry encoding="base64">XDxldmVudF9zZW5kX2J0bl9jbGlja2VkXD4=</entry>
         <entry encoding="base64">XDxsaXN0V2lkZ2V0XD4=</entry>
         <entry encoding="base64">XDx0cmFuc21pdHRlclw+</entry>
+        <entry>proto</entry>
+        <entry encoding="base64">XDxwdGRcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -274,6 +286,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
