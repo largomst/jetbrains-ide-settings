@@ -46,11 +46,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561617518881">
-        <mark key="[" line="597" column="47" />
-        <mark key="]" line="598" column="11" />
-        <mark key="." line="598" column="11" />
-        <mark key="^" line="598" column="11" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561619941527">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="286" column="27" />
+        <mark key="]" line="286" column="26" />
+        <mark key="." line="286" column="26" />
+        <mark key="^" line="286" column="26" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -66,16 +67,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="410" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="441" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="484" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="485" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="520" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="521" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="526" column="47" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="528" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="191" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="217" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="253" column="57" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="257" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -166,6 +157,16 @@
       <jump line="76" column="8" filename="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-462352427/PyQt5/QtWidgets/QListWidget.py" />
       <jump line="593" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="200" column="31" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="605" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="615" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="575" column="44" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="585" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="586" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="610" column="44" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="611" column="48" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="617" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="393" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -190,54 +191,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y2xhc3MgRGVidWcK</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>btn_</text>
       </register>
       <register name="/" type="4">
-        <text>QMessage\c</text>
+        <text encoding="base64">XDxzZW5kX2N1cnJlbnRfbGluZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>QMessageBox.warning(
-                self,
-                &quot;Link Failed&quot;,
-                &quot;Please check the connection and try again&quot;,
-                QMessageBox.Yes,
-            )</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zaW1pdHRlci5zZW5kKE1lc3NhZ2UoKipwcm90b2NvbF90b19kaWN0KFBST1RPQ0FMLkRPV05fTElOSykpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y2xhc3MgRGVidWcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpc3RXaWRnZXQuc2V0Q3VycmVudFJvdyhzZWxmLmxpc3RXaWRnZXQuY3VycmVudFJvdygpICsgMSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5saXN0V2lkZ2V0LnNldEN1cnJlbnRSb3cobmV4KQogICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlbmRfY3VycmVudF9mcmFtZSgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbmRleCAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBmaWxlbGluZV9kcml2ZXIoc2VsZik6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBzZWxmLmxpbmVzOgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgbGluZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUU1lc3NhZ2VCb3gud2FybmluZyhzZWxmLCdzZWxlY3Rpb24nKQo=</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2FybmluZwo=</text>
+        <text encoding="base64">ICAgIGRlZiBsaW5lX2RyaXZlcihzZWxmKToK</text>
       </register>
     </registers>
     <search>
-      <last-search>QMessage\c</last-search>
+      <last-search encoding="base64">XDxzZW5kX2N1cnJlbnRfbGluZVw+</last-search>
       <last-offset />
-      <last-pattern>QMessage\c</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kX2N1cnJlbnRfbGluZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZV9zMTlfZmlsZV90b19jYW5zXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -245,9 +241,6 @@
     </search>
     <history>
       <history-search>
-        <entry>yield</entry>
-        <entry>chunks</entry>
-        <entry encoding="base64">XDxzcGxpdF9zMTlfbGluZVw+</entry>
         <entry encoding="base64">XDxwYXJzZV9zMTlfZmlsZV90b19jYW5zXD4=</entry>
         <entry encoding="base64">XDxldmVudF9zZW5kX2J0bl9jbGlja2VkXD4=</entry>
         <entry encoding="base64">XDxsaXN0V2lkZ2V0XD4=</entry>
@@ -265,6 +258,9 @@
         <entry>exchangec</entry>
         <entry>exchange\c</entry>
         <entry>QMessage\c</entry>
+        <entry encoding="base64">XDxGaWxlRG93bmxvYWRlckV4Y2hhbmdlXD4=</entry>
+        <entry>send_down</entry>
+        <entry encoding="base64">XDxzZW5kX2N1cnJlbnRfbGluZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -318,6 +314,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
