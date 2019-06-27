@@ -46,11 +46,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561599446872">
-        <mark key="'" line="304" column="35" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561602681992">
+        <mark key="'" line="364" column="38" />
+        <mark key="[" line="382" column="34" />
+        <mark key="]" line="383" column="11" />
+        <mark key="^" line="383" column="11" />
+        <mark key="." line="383" column="11" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -66,21 +67,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="78" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="423" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="213" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="214" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="236" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="240" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="251" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="326" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="327" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="393" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="396" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="212" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="50" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="92" column="31" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="61" column="46" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="494" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -96,7 +84,6 @@
       <jump line="512" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="508" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="366" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="364" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="362" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="331" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="357" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -113,7 +100,6 @@
       <jump line="528" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="191" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="217" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="218" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="253" column="57" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="257" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="261" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -166,52 +152,67 @@
       <jump line="229" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="304" column="35" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="8" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="303" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="92" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="120" column="48" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="121" column="66" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="122" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="131" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="194" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="218" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="224" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="225" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="10" column="41" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="363" column="37" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="5" column="5" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="364" column="38" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="11" column="6" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/Ui_SendProgress.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBVaV8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdG9wX3NlbmRfZmlsZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>QWidget</text>
+        <text>DownloaderWidget</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</text>
+        <text encoding="base64">XDxVaV9Eb3dubG9hZGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBVaV8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdG9wX3NlbmRfZmlsZSgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgpkZWYgZ2VuZXJhdG9yX2F1dG9fc2VuZChzZW5kZXIsIHMxOV9jb250ZW50LCBjYWxsYmFjaz1sYW1iZGEgeDogTm9uZSk6CiAgICBjbnQgPSAwCiAgICBsaW5lcyA9IHMxOV9jb250ZW50LnN0cmlwKCkuc3BsaXQoIlxuIikKICAgIGxlbmd0aCA9IGxlbihsaW5lcykKICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoKipwcm90b2NvbF90b19kaWN0KFBST1RPQ0FMLkRPV05fTElOSyksIGlzX2V4dGVuZGVkX2lkPUZhbHNlKSkKICAgIHdoaWxlIFRydWU6CiAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgaWYgcmVzcC5hcmJpdHJhdGlvbl9pZCA9PSAweEM4OiAgIyDWu73TytzQrdLpz/vPogogICAgICAgICAgICBpZiBjbXBfbXNnX3Byb3RvY2FsKHJlc3AsIFBST1RPQ0FMLlVQX0JVU1kpOgogICAgICAgICAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4Qzg6CiAgICAgICAgICAgICAgICAgICAgaWYgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9SRUFEWSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcGFzcwoKICAgIGZvciBsaW5lIGluIGxpbmVzOgogICAgICAgIGZvciBjaHVuayBpbiBzcGxpdF9zMTlfbGluZShsaW5lKToKICAgICAgICAgICAgZGF0YSA9IGJ5dGVhcnJheShjaHVuay5lbmNvZGUoImFzY2lpIikpCiAgICAgICAgICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoYXJiaXRyYXRpb25faWQ9MHg2NCwgZGF0YT1kYXRhLCBpc19leHRlbmRlZF9pZD1GYWxzZSkpCiAgICAgICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9CVVNZKToKICAgICAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4QzggYW5kIGNtcF9tc2dfcHJvdG9jYWwocmVzcCwgUFJPVE9DQUwuVVBfUkVBRFkpOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgIHNlbmRlci5zZW5kKAogICAgICAgICAgICBNZXNzYWdlKCoqcHJvdG9jb2xfdG9fZGljdChQUk9UT0NBTC5ET1dOX0xJTkVfRU5EKSwgaXNfZXh0ZW5kZWRfaWQ9RmFsc2UpCiAgICAgICAgKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgIHJlc3AgPSB5aWVsZAogICAgICAgICAgICBpZiByZXNwLmFyYml0cmF0aW9uX2lkID09IDB4QzggYW5kIGNtcF9tc2dfcHJvdG9jYWwocmVzcCwgUFJPVE9DQUwuVVBfQlVTWSk6CiAgICAgICAgICAgICAgICByZXNwID0geWllbGQKICAgICAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9SRUFEWSk6CiAgICAgICAgICAgICAgICAgICAgY250ICs9IDEKICAgICAgICAgICAgICAgICAgICBjYWxsYWJsZShjbnQpCiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHBhc3MKICAgIHNlbmRlci5zZW5kKE1lc3NhZ2UoKipwcm90b2NvbF90b19kaWN0KFBST1RPQ0FMLkRPV05fRklMRV9FTkQpLCBpc19leHRlbmRlZF9pZD1GYWxzZSkpCiAgICB3aGlsZSBUcnVlOgogICAgICAgIHJlc3AgPSB5aWVsZAogICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9CVVNZKToKICAgICAgICAgICAgcmVzcCA9IHlpZWxkCiAgICAgICAgICAgIGlmIHJlc3AuYXJiaXRyYXRpb25faWQgPT0gMHhDOCBhbmQgY21wX21zZ19wcm90b2NhbChyZXNwLCBQUk9UT0NBTC5VUF9QUkdFTkQpOgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIs7EvP63osvNzeqzySIpCiAgICAgICAgICAgICAgICBicmVhawoK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5idG4uc2V0VGV4dCgnU2VuZCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5idG4uc2V0VGV4dCgiU3RvcCIpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgoKUHJvdG9jb2wgPSBuYW1lZHR1cGxlKCJQcm90b2NhbCIsICJhcmJpdHJhdGlvbl9pZCBkYXRhIikKCgpjbGFzcyBQUk9UT0NBTDoKICAgIERPV05fTElOSyA9IFByb3RvY29sKGFyYml0cmF0aW9uX2lkPTB4NjQsIGRhdGE9Ynl0ZWFycmF5KFsweEZGXSkpCiAgICBET1dOX0xJTkVfRU5EID0gUHJvdG9jb2woYXJiaXRyYXRpb25faWQ9MHg2NCwgZGF0YT1ieXRlYXJyYXkoWzB4RkVdKSkKICAgIERPV05fRklMRV9FTkQgPSBQcm90b2NvbChhcmJpdHJhdGlvbl9pZD0weDY0LCBkYXRhPWJ5dGVhcnJheShbMHhGRF0pKQogICAgVVBfUkVBRFkgPSBQcm90b2NvbChhcmJpdHJhdGlvbl9pZD0weEM4LCBkYXRhPWJ5dGVhcnJheShbMHhDM10pKQogICAgVVBfQlVTWSA9IFByb3RvY29sKGFyYml0cmF0aW9uX2lkPTB4QzgsIGRhdGE9Ynl0ZWFycmF5KFsweEMyXSkpCiAgICBVUF9QUkdFTkQgPSBQcm90b2NvbChhcmJpdHJhdGlvbl9pZD0weEM4LCBkYXRhPWJ5dGVhcnJheShbMHhDMV0pKQogICAgVVBfRVJSID0gUHJvdG9jb2woYXJiaXRyYXRpb25faWQ9MHhDOCwgZGF0YT1ieXRlYXJyYXkoWzB4MDBdKSkKCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kaW5nID0gVHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kaW5nID0gRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHB0ZChtc2cpIC0+IGRpY3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kaW5nID0gRmFsc2UK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmNsYXNzIEZpbGVEb3dubG9hZGVyRXhjaGFuZ2UoU3ViamVjdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgZmlsZW5hbWUpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYuZ28gPSBUcnVlCiAgICAgICAgd2l0aCBvcGVuKGZpbGVuYW1lKSBhcyBmOgogICAgICAgICAgICBzZWxmLmxpbmVzID0gZi5yZWFkbGluZXMoKQogICAgICAgIHNlbGYubGluZV9jbnQgPSBsZW4oc2VsZi5saW5lcykKICAgICAgICBzZWxmLmxpbmVfbm8gPSAwCiAgICAgICAgc2VsZi5jYW5fbm8gPSAwCgogICAgZGVmIGRyaXZlcihzZWxmKToKICAgICAgICBmb3IgbGluZSBpbiBzZWxmLmxpbmVzOgogICAgICAgICAgICBjaHVua3MgPSBzcGxpdF9zMTlfbGluZShsaW5lKQogICAgICAgICAgICBmb3IgY2h1bmsgaW4gY2h1bmtzOgogICAgICAgICAgICAgICAgZGF0YSA9IGJ5dGVhcnJheShjaHVuaywgZW5jb2Rpbmc9ImFzY2lpIikKICAgICAgICAgICAgICAgIGNodW5rX21zZyA9IE1lc3NhZ2UoCiAgICAgICAgICAgICAgICAgICAgYXJiaXRyYXRpb25faWQ9MHg2NCwgZGF0YT1kYXRhLCBpc19leHRlbmRlZF9pZD1GYWxzZQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgeWllbGQgY2h1bmtfbXNnCiAgICAgICAgICAgICAgICBzZWxmLmNhbl9ubyArPSAxCiAgICAgICAgICAgIHNlbGYubGluZV9ubyArPSAxCiAgICAgICAgICAgIGxpbmVfZW5kX21zZyA9IE1lc3NhZ2UoCiAgICAgICAgICAgICAgICAqKnByb3RvY2FsX3RvX2RpY3QoUFJPVE9DQUwuRE9XTl9MSU5FX0VORCksIGlzX2V4dGVuZGVkX2lkPUZhbHNlCiAgICAgICAgICAgICkKICAgICAgICAgICAgeWllbGQgbGluZV9lbmRfbXNnCiAgICAgICAgICAgIHNlbGYuY2FuX25vICs9IDEKICAgICAgICBmaWxlX2VuZF9tc2cgPSBNZXNzYWdlKAogICAgICAgICAgICAqKnByb3RvY2FsX3RvX2RpY3QoUFJPVE9DQUwuRE9XTl9GSUxFX0VORCksIGlzX2V4dGVuZGVkX2lkPUZhbHNlCiAgICAgICAgKQogICAgICAgIHlpZWxkIGZpbGVfZW5kX21zZwoKICAgIGRlZiBzZW5kKHNlbGYsIHJlc3A6IE1lc3NhZ2UpOgogICAgICAgICIiIgogICAgICAgILjDt723qNDo0qrXorLhtb2908rcuq/K/cnPo6zNqLn9z8LOu7v6tcS3tbvYtcTP+8+iwLTH/bav0a27t7T6wuu1xNa00NChowogICAgICAgIM6qwcu0pbeiz8LOu7v6t6LLzc/s06ajrNfuv6rKvNDo0qrNqLn9IFVJILeiy83BrL3Tx+vH88/7z6KhowogICAgICAgICIiIgogICAgICAgIGcgPSBzZWxmLmRyaXZlcigpCiAgICAgICAgd2hpbGUgc2VsZi5nbzoKICAgICAgICAgICAgaWYgY21wKHJlc3AsIFBST1RPQ0FMLlVQX1JFQURZKToKICAgICAgICAgICAgICAgIG1zZyA9IG5leHQoZykKICAgICAgICAgICAgICAgIHNlbGYubm90aWZ0eShtc2cpICAjILeiy83Q0LrFus3P+8+io6y21NPavdPK3LLOyv26r8r9o6zKudPDIGxhbWJkYSDAtLn9wsuyzsr9CiAgICAgICAgICAgIGVsaWYgY21wKHJlc3AsIFBST1RPQ0FMLlVQX0JVU1kpOgogICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICBlbGlmIGNtcChyZXNwLCBQUk9UT0NBTC5VUF9QUkdFTkQpOgogICAgICAgICAgICAgICAgZy5jbG9zZSgpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwYXNzCgogICAgICAgICMgVE9ETyC9q7jDt723qNeisuG1vbXEIFJlY3Ygyc+jrNPJxuTH/bavCgogICAgZGVmIGdldF9tc2dzKHNlbGYpOgogICAgICAgIGcgPSBzZWxmLmRyaXZlcigpCiAgICAgICAgcmV0dXJuIGxpc3QoZykK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiB1cGRhdGVfdWkoc2VsZik6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlbmRpbmc6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</last-search>
+      <last-search encoding="base64">XDxVaV9Eb3dubG9hZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxVaV9Eb3dubG9hZGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwYXJzZV9zMTlfZmlsZV90b19jYW5zXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -219,8 +220,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWN2V29ya2VyXD4=</entry>
-        <entry>作品</entry>
         <entry>fielsend</entry>
         <entry>file</entry>
         <entry encoding="base64">XDxjbXBfbXNnXD4=</entry>
@@ -239,6 +238,8 @@
         <entry>proto</entry>
         <entry encoding="base64">XDxwdGRcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0b3JfYXV0b19zZW5kXD4=</entry>
+        <entry>downl\c</entry>
+        <entry encoding="base64">XDxVaV9Eb3dubG9hZGVyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
