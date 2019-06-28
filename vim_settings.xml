@@ -9,10 +9,10 @@
       <file name="/Dummy.txt" timestamp="1561683165856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1561683475714">
+      <file name="/Python Console" timestamp="1561686090498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1561683504966">
+      <file name="/fragment.py" timestamp="1561685590388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" timestamp="1560846663142">
@@ -46,12 +46,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561683832424">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561686069037">
         <mark key="'" line="71" column="14" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="395" column="46" />
+        <mark key="[" line="89" column="52" />
+        <mark key="]" line="369" column="30" />
+        <mark key="." line="369" column="30" />
+        <mark key="^" line="369" column="46" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -67,8 +67,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="568" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="302" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="33" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="582" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="421" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -138,7 +136,6 @@
       <jump line="308" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="310" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="312" column="32" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="314" column="31" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="316" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="461" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="306" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -160,10 +157,13 @@
       <jump line="405" column="25" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="134" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="66" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/Ui_MainWindow.py" />
-      <jump line="183" column="35" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="368" column="29" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="645" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="183" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="677" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="314" column="36" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="462" column="25" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="28" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="54" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="71" column="14" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -190,11 +190,11 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhmImd1ZXN0IHJlY3Y6IHttc2d9IikK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -244,11 +244,6 @@
     </search>
     <history>
       <history-search>
-        <entry>frame_driver</entry>
-        <entry encoding="base64">XDxmcmFtZV9kcml2ZXJcPg==</entry>
-        <entry encoding="base64">XDxleGNoYW5nZVw+</entry>
-        <entry encoding="base64">XDxGaWxlRG93bmxvYWRlckV4Y2hhbmdlXD4=</entry>
-        <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry encoding="base64">XDxidG5fc2VuZF9jdXJyZW50X2ZyYW1lXD4=</entry>
         <entry>update_ui</entry>
         <entry encoding="base64">XDxTZW5kV29ya2VyXD4=</entry>
@@ -263,6 +258,11 @@
         <entry>qtext</entry>
         <entry>textedit</entry>
         <entry>textedit\c</entry>
+        <entry>connect(</entry>
+        <entry>clicked</entry>
+        <entry>clicked(</entry>
+        <entry>clicked\(</entry>
+        <entry>mainwindow\c</entry>
         <entry>logger</entry>
       </history-search>
       <history-cmd>
