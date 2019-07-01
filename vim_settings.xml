@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1561946747811">
+      <file name="/Python Console" timestamp="1561961444079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -52,11 +52,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561946466864">
-        <mark key="[" line="297" column="34" />
-        <mark key="]" line="299" column="24" />
-        <mark key="." line="299" column="24" />
-        <mark key="^" line="299" column="24" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561961436522">
+        <mark key="'" line="74" column="6" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -72,9 +69,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="586" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="610" column="44" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="611" column="48" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="393" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="300" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -172,6 +166,9 @@
       <jump line="606" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="589" column="66" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="612" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="731" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="712" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="74" column="6" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -202,7 +199,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0c1w+</text>
+        <text encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg4MDAsIDUwMCkKICAgICAgICBzZWxmLnNldEZvbnQoUUZvbnQoJ01pY3Jvc29mdCBZYUhlaSBVSScsIDkpKQo=</text>
@@ -239,9 +236,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0c1w+</last-search>
+      <last-search encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -249,7 +246,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qtext</entry>
         <entry>textedit</entry>
         <entry>textedit\c</entry>
         <entry>connect(</entry>
@@ -269,6 +265,7 @@
         <entry encoding="base64">XDxGaWxlRG93bmxvYWRlckV4Y2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxnZXRfbGlzdHNcPg==</entry>
         <entry encoding="base64">XDxsaXN0c1w+</entry>
+        <entry encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
