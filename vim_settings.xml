@@ -6,10 +6,10 @@
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561683165856">
+      <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1561705830031">
+      <file name="/Python Console" timestamp="1561946747811">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -52,10 +52,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561705828401">
-        <mark key="[" line="411" column="27" />
-        <mark key="]" line="411" column="27" />
-        <mark key="." line="411" column="27" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561946466864">
+        <mark key="[" line="297" column="34" />
+        <mark key="]" line="299" column="24" />
+        <mark key="." line="299" column="24" />
+        <mark key="^" line="299" column="24" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -194,8 +195,8 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1zZyBpcyAK</text>
       </register>
       <register name="-" type="4">
         <text>True</text>
@@ -207,31 +208,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg4MDAsIDUwMCkKICAgICAgICBzZWxmLnNldEZvbnQoUUZvbnQoJ01pY3Jvc29mdCBZYUhlaSBVSScsIDkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg4MDAsIDUwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1zZyBpcyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg3MDAsIDUwMCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg4MDAsIDUwMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbXNnIGluIHNlbGYubGlzdHNbaW5kZXhdOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg3MDAsIDUwMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1zZyBpbiBzZWxmLmxpc3RzW2luZGV4XToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudHJhbnNtaXR0ZXIuc2VuZChtc2cpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFuc21pdHRlci5zZW5kKG1zZykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgbXNnIGluIHNlbGYubGlzdHNbaW5kZXhdOgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1zZyBpbiBzZWxmLmxpc3RzW2luZGV4XToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudHJhbnNtaXR0ZXIuc2VuZChtc2cpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFuc21pdHRlci5zZW5kKG1zZykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kX29uZV9saW5lX21zZ3MobGluZV9tc2dzKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbXNnIGluIHNlbGYubGlzdHNbaW5kZXhdOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFuc21pdHRlci5zZW5kKG1zZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kX29uZV9saW5lX21zZ3MobGluZV9tc2dzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
