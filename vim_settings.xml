@@ -52,8 +52,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1561961436522">
-        <mark key="'" line="74" column="6" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562568492785">
+        <mark key="'" line="546" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -69,7 +69,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="300" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="357" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -169,6 +168,7 @@
       <jump line="731" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="712" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="74" column="6" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="546" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
