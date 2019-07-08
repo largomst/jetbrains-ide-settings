@@ -52,12 +52,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562574738647">
-        <mark key="'" line="424" column="22" />
-        <mark key="[" line="413" column="43" />
-        <mark key="]" line="420" column="13" />
-        <mark key="." line="420" column="13" />
-        <mark key="^" line="420" column="13" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562576859372">
+        <mark key="'" line="220" column="0" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -73,8 +73,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="536" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="626" column="39" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="20" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/Ui_FrameDebug.py" />
       <jump line="604" column="29" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="90" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -173,6 +171,8 @@
       <jump line="418" column="56" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="420" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="424" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="21" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -197,7 +197,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNoYW5nZV9zZW5kX3NwZWVkKCkK</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="-" type="4">
         <text>()()</text>
@@ -205,35 +205,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg4MDAsIDUwMCkKICAgICAgICBzZWxmLnNldEZvbnQoUUZvbnQoJ01pY3Jvc29mdCBZYUhlaSBVSScsIDkpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lKSBhcyBmOgogICAgICAgICAgICBzZWxmLmxpbmVzID0gZi5yZWFkbGluZXMoKQogICAgICAgICAgICBzZWxmLmxpbmVzID0gW2wuc3RyaXAoKSBmb3IgbCBpbiBzZWxmLmxpbmVzXQogICAgICAgIHNlbGYubGluZV9jbnQgPSBsZW4oc2VsZi5saW5lcykKICAgICAgICBzZWxmLmxpbmVfbm8gPSAwCiAgICAgICAgc2VsZi5jYW5fbm8gPSAwCiAgICAgICAgc2VsZi5hY3RpdmF0ZV9tc2dfcHJvY2Vzc29yKCkKICAgICAgICBzZWxmLmluaXRfY2FsbGJhY2soKQogICAgICAgIHNlbGYuZGVsYXlfdGltZSA9IDUwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNoYW5nZV9zZW5kX3NwZWVkKCkK</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdGl2YXRlX21zZ19wcm9jZXNzb3IoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1zZyA9IHB5cXRTaWduYWwoTWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfY2FsbGJhY2soKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfbGluZSA9IHB5cXRTaWduYWwoaW50KQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmlzaCA9IHB5cXRTaWduYWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoYW5nZV9zZW5kX3NwZWVkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGVlcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lcgo=</text>
+        <text encoding="base64">ICAgIG1zZyA9IHB5cXRTaWduYWwoTWVzc2FnZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfbGluZSA9IHB5cXRTaWduYWwoaW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjaGFuZ2VfCg==</text>
+        <text encoding="base64">ICAgIGZpbmlzaCA9IHB5cXRTaWduYWwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
