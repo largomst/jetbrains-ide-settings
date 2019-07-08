@@ -52,10 +52,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562580264639">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562581318290">
+        <mark key="'" line="422" column="20" />
+        <mark key="[" line="424" column="45" />
+        <mark key="]" line="424" column="49" />
+        <mark key="." line="424" column="49" />
+        <mark key="^" line="424" column="49" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -71,8 +73,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="604" column="29" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="91" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="145" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="526" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -166,11 +166,13 @@
       <jump line="338" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="337" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="418" column="56" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="420" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="424" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="217" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="21" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="240" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="411" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="420" column="68" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="422" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -195,13 +197,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgpjbGFzcyBTVEFUVVMoRW51bSk6CiAgICBOT19MSU5LID0gMAogICAgTElOSyA9IDEKICAgIExJTkVfRU5EID0gMgogICAgRklMRV9FTkQgPSAzCg==</text>
+        <text>Speed</text>
       </register>
       <register name="-" type="4">
-        <text>NO_LINK</text>
+        <text>Speed</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</text>
+        <text>speed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBTVEFUVVMuTk9fTElOSyA9PSBzZWxmLnN0YXR1cwo=</text>
@@ -238,9 +240,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</last-search>
+      <last-search>speed</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</last-pattern>
+      <last-pattern>speed</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -248,7 +250,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clicked\(</entry>
         <entry>mainwindow\c</entry>
         <entry>logger</entry>
         <entry>List</entry>
@@ -268,6 +269,7 @@
         <entry>slider</entry>
         <entry encoding="base64">XDxjaGFuZ2Vfc2VuZF9zcGVlZFw+</entry>
         <entry encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</entry>
+        <entry>speed</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
