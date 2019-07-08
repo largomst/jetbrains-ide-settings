@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1561961444079">
+      <file name="/Python Console" timestamp="1562574766074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -52,8 +52,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562568492785">
-        <mark key="'" line="546" column="0" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562574738647">
+        <mark key="'" line="424" column="22" />
+        <mark key="[" line="413" column="43" />
+        <mark key="]" line="420" column="13" />
+        <mark key="." line="420" column="13" />
+        <mark key="^" line="420" column="13" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -69,21 +73,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="300" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="357" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="538" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="264" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/scoop/apps/anaconda3/current/Lib/site-packages/can/util.py" />
-      <jump line="632" column="35" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="373" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="451" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="485" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="537" column="19" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="573" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="594" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="631" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="670" column="34" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="536" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="626" column="39" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="20" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/Ui_FrameDebug.py" />
@@ -169,6 +158,21 @@
       <jump line="712" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="74" column="6" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="546" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="102" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="417" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="414" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="403" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="451" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="474" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="531" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="317" column="19" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="425" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="338" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="337" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="418" column="56" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="420" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="424" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -193,52 +197,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1zZyBpcyAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoYW5nZV9zZW5kX3NwZWVkKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>()()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</text>
+        <text encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg4MDAsIDUwMCkKICAgICAgICBzZWxmLnNldEZvbnQoUUZvbnQoJ01pY3Jvc29mdCBZYUhlaSBVSScsIDkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1zZyBpcyAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoYW5nZV9zZW5kX3NwZWVkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg4MDAsIDUwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg3MDAsIDUwMCkK</text>
+        <text encoding="base64">ICAgIG1zZyA9IHB5cXRTaWduYWwoTWVzc2FnZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbXNnIGluIHNlbGYubGlzdHNbaW5kZXhdOgo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfbGluZSA9IHB5cXRTaWduYWwoaW50KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1zZyBpbiBzZWxmLmxpc3RzW2luZGV4XToK</text>
+        <text encoding="base64">ICAgIGZpbmlzaCA9IHB5cXRTaWduYWwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudHJhbnNtaXR0ZXIuc2VuZChtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbGVlcCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFuc21pdHRlci5zZW5kKG1zZykK</text>
+        <text encoding="base64">ZnJvbSB0aW1lcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbXNnIGluIHNlbGYubGlzdHNbaW5kZXhdOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kX29uZV9saW5lX21zZ3MobGluZV9tc2dzKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBjaGFuZ2VfCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</last-search>
+      <last-search encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -246,11 +250,6 @@
     </search>
     <history>
       <history-search>
-        <entry>textedit</entry>
-        <entry>textedit\c</entry>
-        <entry>connect(</entry>
-        <entry>clicked</entry>
-        <entry>clicked(</entry>
         <entry>clicked\(</entry>
         <entry>mainwindow\c</entry>
         <entry>logger</entry>
@@ -262,10 +261,15 @@
         <entry encoding="base64">XDxzZW5kX29uZV9saW5lX21zZ3NcPg==</entry>
         <entry encoding="base64">XDxtc2dzX2ZpbGVfbGluZVw+</entry>
         <entry encoding="base64">XDxnZXRfbXNnc19maWxlX2xpbmVcPg==</entry>
-        <entry encoding="base64">XDxGaWxlRG93bmxvYWRlckV4Y2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxnZXRfbGlzdHNcPg==</entry>
         <entry encoding="base64">XDxsaXN0c1w+</entry>
         <entry encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</entry>
+        <entry>exchange</entry>
+        <entry>exchange\c</entry>
+        <entry encoding="base64">XDxGaWxlRG93bmxvYWRlckV4Y2hhbmdlXD4=</entry>
+        <entry>slider</entry>
+        <entry encoding="base64">XDxjaGFuZ2Vfc2VuZF9zcGVlZFw+</entry>
+        <entry encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
