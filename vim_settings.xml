@@ -52,12 +52,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562581318290">
-        <mark key="'" line="422" column="20" />
-        <mark key="[" line="424" column="45" />
-        <mark key="]" line="424" column="49" />
-        <mark key="." line="424" column="49" />
-        <mark key="^" line="424" column="49" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1562633583545">
+        <mark key="'" line="231" column="13" />
+        <mark key="[" line="316" column="39" />
+        <mark key="]" line="317" column="26" />
+        <mark key="." line="317" column="26" />
+        <mark key="^" line="317" column="26" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
@@ -73,7 +73,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="145" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="526" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="523" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -157,7 +156,6 @@
       <jump line="417" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="414" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="403" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="451" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="474" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="531" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="317" column="19" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -173,6 +171,8 @@
       <jump line="411" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="420" column="68" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="422" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="451" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
+      <jump line="231" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -203,7 +203,7 @@
         <text>Speed</text>
       </register>
       <register name="/" type="4">
-        <text>speed</text>
+        <text>delay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBTVEFUVVMuTk9fTElOSyA9PSBzZWxmLnN0YXR1cwo=</text>
@@ -240,9 +240,9 @@
       </register>
     </registers>
     <search>
-      <last-search>speed</last-search>
+      <last-search>delay</last-search>
       <last-offset />
-      <last-pattern>speed</last-pattern>
+      <last-pattern>delay</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -250,7 +250,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mainwindow\c</entry>
         <entry>logger</entry>
         <entry>List</entry>
         <entry encoding="base64">XDxmaWxlX2xpbmVfbXNnc1w+</entry>
@@ -270,6 +269,7 @@
         <entry encoding="base64">XDxjaGFuZ2Vfc2VuZF9zcGVlZFw+</entry>
         <entry encoding="base64">XDxjaGFuZ2Vfc2VuZF9kZWxheVw+</entry>
         <entry>speed</entry>
+        <entry>delay</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
