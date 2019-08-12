@@ -9,14 +9,14 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565597757178">
-        <mark key="'" line="24" column="3" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="30" column="35" />
-        <mark key="." line="30" column="35" />
-        <mark key="^" line="30" column="35" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565601829067">
+        <mark key="'" line="53" column="35" />
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="55" column="16" />
+        <mark key="." line="55" column="16" />
+        <mark key="^" line="55" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1565591504383">
+      <file name="/Python Console" timestamp="1565601652657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1565594819791">
@@ -87,7 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="157" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="163" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="164" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -187,6 +186,7 @@
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="30" column="50" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="12" column="3" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
+      <jump line="52" column="35" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -210,53 +210,53 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Limits</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBjb25zdHJ1Y3RfdHJlZShzZWxmKToK</text>
       </register>
       <register name="-" type="4">
-        <text>Limits</text>
+        <text>current</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlXD4=</text>
+        <text encoding="base64">XDxjdXJyZW50XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHByaW50X2RpY3QoZGF0YTogZGljdCwgbGV2ZWw9MCk6CiAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkYXRhLml0ZW1zKCk6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UodmFsdWUsIGRpY3QpOgogICAgICAgICAgICBwcmludChmIntsZXZlbCAqICctJ317a2V5fToge3ZhbHVlfSIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoZiJ7bGV2ZWwgKiAnLSd9e2tleX06IikKICAgICAgICAgICAgcHJpbnRfZGljdCh2YWx1ZSwgbGV2ZWwgKyAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBjb25zdHJ1Y3RfdHJlZShzZWxmKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyZWVXaWRnZXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN0cnVjdF90cmVlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnMgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3JfdHJlZShzZWxmLmRhdGEsIHNlbGYudHJlZVdpZGdldC50cmVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHdhbGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgpkZWYgd2Fsa195YW1sKGRhdGE6IGRpY3QpIC0+IFFUcmVlV2lkZ2V0SXRlbToKCgpkZWYgZGZzKGdyYXBoOiBkaWN0LCBzdGFydCwgc2Vlbj1Ob25lLCBsZXZlbD0wKToKICAgIHNlZW4gPSBzZWVuIGlmIHNlZW4gZWxzZSBzZXQoKQogICAgc2Vlbi5hZGQoc3RhcnQpCiAgICBsZXZlbCA9IGxldmVsIGlmIGxldmVsIGlzIG5vdCBOb25lIGVsc2UgMAoKICAgIGZvciBuYnIgaW4gZ3JhcGhbc3RhcnRdOgogICAgICAgIGlmIG5iciBub3QgaW4gc2VlbjoKICAgICAgICAgICAgc2Vlbi5hZGQobmJyKQogICAgICAgICAgICBkZnMoZ3JhcGgsIG5iciwgc2VlbiwgbGV2ZWw9bGV2ZWwrMSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwYXNz</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiInRyYXZlcnNlIHRoZSB5YW1sIGRjaXQgYW5kIGNvbnN0cnVjdGUgYSBRVHJlZVdpZGdldCBUcmVlIiIiCg==</text>
+        <text encoding="base64">ICAgIGZvciBrZXksIHZhbHVlIGluIGRhdGEuaXRlbXMoKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZGVmIGdldF90cmVlKGRhdGEsIHRyZWUpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YT0gMTAK</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRvcl90cmVlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlXD4=</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50XD4=</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -264,7 +264,6 @@
     </search>
     <history>
       <history-search>
-        <entry>List</entry>
         <entry encoding="base64">XDxmaWxlX2xpbmVfbXNnc1w+</entry>
         <entry>mode</entry>
         <entry>mode\c</entry>
@@ -284,6 +283,7 @@
         <entry>speed</entry>
         <entry>delay</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
+        <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
