@@ -9,11 +9,12 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565594828187">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565597217408">
+        <mark key="'" line="24" column="3" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
       </file>
       <file name="/Python Console" timestamp="1565591504383">
         <mark key="[" line="0" column="0" />
@@ -183,9 +184,9 @@
       <jump line="75" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="14" column="14" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
       <jump line="10" column="14" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
-      <jump line="12" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="30" column="50" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="12" column="3" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -209,11 +210,11 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHdhbGsK</text>
+      <register name="&quot;" type="4">
+        <text>Limits</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Limits</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
@@ -222,31 +223,31 @@
         <text encoding="base64">ZGVmIHByaW50X2RpY3QoZGF0YTogZGljdCwgbGV2ZWw9MCk6CiAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkYXRhLml0ZW1zKCk6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UodmFsdWUsIGRpY3QpOgogICAgICAgICAgICBwcmludChmIntsZXZlbCAqICctJ317a2V5fToge3ZhbHVlfSIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoZiJ7bGV2ZWwgKiAnLSd9e2tleX06IikKICAgICAgICAgICAgcHJpbnRfZGljdCh2YWx1ZSwgbGV2ZWwgKyAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHdhbGsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyZWVXaWRnZXQK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgpkZWYgd2Fsa195YW1sKGRhdGE6IGRpY3QpIC0+IFFUcmVlV2lkZ2V0SXRlbToKCgpkZWYgZGZzKGdyYXBoOiBkaWN0LCBzdGFydCwgc2Vlbj1Ob25lLCBsZXZlbD0wKToKICAgIHNlZW4gPSBzZWVuIGlmIHNlZW4gZWxzZSBzZXQoKQogICAgc2Vlbi5hZGQoc3RhcnQpCiAgICBsZXZlbCA9IGxldmVsIGlmIGxldmVsIGlzIG5vdCBOb25lIGVsc2UgMAoKICAgIGZvciBuYnIgaW4gZ3JhcGhbc3RhcnRdOgogICAgICAgIGlmIG5iciBub3QgaW4gc2VlbjoKICAgICAgICAgICAgc2Vlbi5hZGQobmJyKQogICAgICAgICAgICBkZnMoZ3JhcGgsIG5iciwgc2VlbiwgbGV2ZWw9bGV2ZWwrMSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwYXNz</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnMgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiInRyYXZlcnNlIHRoZSB5YW1sIGRjaXQgYW5kIGNvbnN0cnVjdGUgYSBRVHJlZVdpZGdldCBUcmVlIiIiCg==</text>
+        <text encoding="base64">ZGVmIHdhbGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">YT0gMTAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgpkZWYgd2Fsa195YW1sKGRhdGE6IGRpY3QpIC0+IFFUcmVlV2lkZ2V0SXRlbToKCgpkZWYgZGZzKGdyYXBoOiBkaWN0LCBzdGFydCwgc2Vlbj1Ob25lLCBsZXZlbD0wKToKICAgIHNlZW4gPSBzZWVuIGlmIHNlZW4gZWxzZSBzZXQoKQogICAgc2Vlbi5hZGQoc3RhcnQpCiAgICBsZXZlbCA9IGxldmVsIGlmIGxldmVsIGlzIG5vdCBOb25lIGVsc2UgMAoKICAgIGZvciBuYnIgaW4gZ3JhcGhbc3RhcnRdOgogICAgICAgIGlmIG5iciBub3QgaW4gc2VlbjoKICAgICAgICAgICAgc2Vlbi5hZGQobmJyKQogICAgICAgICAgICBkZnMoZ3JhcGgsIG5iciwgc2VlbiwgbGV2ZWw9bGV2ZWwrMSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwYXNz</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGZ1bigpOgo=</text>
+        <text encoding="base64">ICAgICIiInRyYXZlcnNlIHRoZSB5YW1sIGRjaXQgYW5kIGNvbnN0cnVjdGUgYSBRVHJlZVdpZGdldCBUcmVlIiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YT0gMTAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
