@@ -9,11 +9,10 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565662882203">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="26" column="33" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565664390592">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="/Python Console" timestamp="1565601652657">
         <mark key="[" line="0" column="0" />
@@ -213,7 +212,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSgxMDI0LCA2MDApCg==</text>
+        <text encoding="base64">ICAgICIiIrj5vt3Wp7PFIiIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>self.</text>
@@ -222,34 +221,31 @@
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>if isinstance(root, QTreeWidget):
-                root.addTopLevelItem(current)
-            else:
-                root.addChild(current)</text>
+        <text encoding="base64">ZGVmIGdlbmVyYXRvcl90cmVlKGRhdGE6IGRpY3QsIHJvb3QpOgogICAgIiIiYWRkIGNoaWxkcmVuIG5vZGUgb2YgYSBRVHJlZVdpZGdldCBmcm9tIHlhbWwgZGF0YSIiIgogICAgZm9yIGtleSwgdmFsdWUgaW4gZGF0YS5pdGVtcygpOgogICAgICAgIGN1cnJlbnQgPSBRVHJlZVdpZGdldEl0ZW0oKQogICAgICAgIGN1cnJlbnQuc2V0VGV4dCgwLCBzdHIoa2V5KSkKCiAgICAgICAgaWYgaXNfY29udGFpbmVyKHZhbHVlKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyb290LCBRVHJlZVdpZGdldCk6CiAgICAgICAgICAgICAgICByb290LmFkZFRvcExldmVsSXRlbShjdXJyZW50KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQogICAgICAgICAgICBnZW5lcmF0b3JfdHJlZShkYXRhW2tleV0sIGN1cnJlbnQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY3VycmVudC5zZXRUZXh0KDEsIHN0cih2YWx1ZSkpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uocm9vdCwgUVRyZWVXaWRnZXQpOgogICAgICAgICAgICAgICAgcm9vdC5hZGRUb3BMZXZlbEl0ZW0oY3VycmVudCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJvb3QuYWRkQ2hpbGQoY3VycmVudCkKICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSgxMDI0LCA2MDApCg==</text>
+        <text encoding="base64">ICAgICIiIrj5vt3Wp7PFIiIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBsYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSgxMDI0LCA2MDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBsYXlvdXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlIGxheW91dAogICAgbGF5b3V0ID0gUVZCb3hMYXlvdXQoKQogICAgbGF5b3V0LmFkZFdpZGdldCh0cmVlKQo=</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGZzZXRMYXlvdXQobGF5b3V0KQo=</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlIGxheW91dAogICAgbGF5b3V0ID0gUVZCb3hMYXlvdXQoKQogICAgbGF5b3V0LmFkZFdpZGdldCh0cmVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfdHJlZSgpCg==</text>
+        <text encoding="base64">ICAgIHNlbGZzZXRMYXlvdXQobGF5b3V0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfdHJlZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
