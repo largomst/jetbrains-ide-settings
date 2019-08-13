@@ -9,9 +9,12 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565603780707">
-        <mark key="'" line="53" column="35" />
-        <mark key="[" line="55" column="18" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565660085997">
+        <mark key="'" line="52" column="35" />
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="57" column="7" />
+        <mark key="." line="57" column="7" />
+        <mark key="^" line="57" column="7" />
       </file>
       <file name="/Python Console" timestamp="1565601652657">
         <mark key="[" line="0" column="0" />
@@ -208,43 +211,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb25zdHJ1Y3RfdHJlZShzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHByaW50X2RpY3QoZGF0YTogZGljdCwgbGV2ZWw9MCk6CiAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkYXRhLml0ZW1zKCk6CiAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UodmFsdWUsIGRpY3QpOgogICAgICAgICAgICBwcmludChmIntsZXZlbCAqICctJ317a2V5fToge3ZhbHVlfSIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoZiJ7bGV2ZWwgKiAnLSd9e2tleX06IikKICAgICAgICAgICAgcHJpbnRfZGljdCh2YWx1ZSwgbGV2ZWwgKyAxKQo=</text>
+        <text>if isinstance(root, QTreeWidget):
+                root.addTopLevelItem(current)
+            else:
+                root.addChild(current)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb25zdHJ1Y3RfdHJlZShzZWxmKToK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN0cnVjdF90cmVlKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3JfdHJlZShzZWxmLmRhdGEsIHNlbGYudHJlZVdpZGdldC50cmVlKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCA9IFFUcmVlV2lkZ2V0SXRlbSgpCiAgICAgICAgICAgIGN1cnJlbnQuc2V0VGV4dCgwLCBrZXkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCA9IFFUcmVlV2lkZ2V0SXRlbSgpCiAgICAgICAgICAgIGN1cnJlbnQuc2V0VGV4dCgwLCBrZXkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBrZXksIHZhbHVlIGluIGRhdGEuaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2Uocm9vdCwgUVRyZWVXaWRnZXQpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGdldF90cmVlKGRhdGEsIHRyZWUpOgo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRvcl90cmVlKCkK</text>
+        <text encoding="base64">ICAgIHNlZW4gPSBzZWVuIGlmIHNlZW4gZWxzZSBzZXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
