@@ -9,12 +9,13 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565664390592">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565674456965">
+        <mark key="'" line="83" column="0" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1565601652657">
+      <file name="/Python Console" timestamp="1565675210925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1565594819791">
@@ -86,44 +87,22 @@
         <mark key="." line="423" column="15" />
         <mark key="^" line="423" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1565675258606">
+        <mark key="'" line="54" column="34" />
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="49" column="32" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="49" column="32" />
+        <mark key="n" line="7" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1565675512503">
+        <mark key="[" line="187" column="42" />
+        <mark key="]" line="187" column="42" />
+        <mark key="^" line="187" column="45" />
+        <mark key="." line="187" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="370" column="29" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="371" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="119" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="120" column="39" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="369" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="391" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="105" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="399" column="38" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="596" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="395" column="46" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="550" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="405" column="25" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="134" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="66" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/Ui_MainWindow.py" />
-      <jump line="368" column="29" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="645" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="183" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="677" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="314" column="36" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="462" column="25" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="54" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="71" column="14" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="603" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="121" column="52" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="637" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="642" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="648" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="636" column="38" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="641" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="608" column="44" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="301" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="250" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="617" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="26" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/Ui_FrameDebug.py" />
       <jump line="31" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/Ui_FrameDebug.py" />
       <jump line="588" column="57" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="606" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -188,6 +167,42 @@
       <jump line="34" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
       <jump line="31" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
       <jump line="33" column="19" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
+      <jump line="6" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="8" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="10" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="22" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="23" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="24" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="27" column="40" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="28" column="36" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="32" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="33" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="5" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="13" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="15" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="16" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="20" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="35" column="47" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="68" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="74" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="101" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="50" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="1" column="29" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="98" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="14" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="43" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="47" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="42" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="46" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="31" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="48" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="49" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="51" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="52" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="53" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <jump line="17" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -211,53 +226,53 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIiIrj5vt3Wp7PFIiIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>DictType</text>
       </register>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>DictType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text encoding="base64">XDxzaXBcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGdlbmVyYXRvcl90cmVlKGRhdGE6IGRpY3QsIHJvb3QpOgogICAgIiIiYWRkIGNoaWxkcmVuIG5vZGUgb2YgYSBRVHJlZVdpZGdldCBmcm9tIHlhbWwgZGF0YSIiIgogICAgZm9yIGtleSwgdmFsdWUgaW4gZGF0YS5pdGVtcygpOgogICAgICAgIGN1cnJlbnQgPSBRVHJlZVdpZGdldEl0ZW0oKQogICAgICAgIGN1cnJlbnQuc2V0VGV4dCgwLCBzdHIoa2V5KSkKCiAgICAgICAgaWYgaXNfY29udGFpbmVyKHZhbHVlKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyb290LCBRVHJlZVdpZGdldCk6CiAgICAgICAgICAgICAgICByb290LmFkZFRvcExldmVsSXRlbShjdXJyZW50KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQogICAgICAgICAgICBnZW5lcmF0b3JfdHJlZShkYXRhW2tleV0sIGN1cnJlbnQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY3VycmVudC5zZXRUZXh0KDEsIHN0cih2YWx1ZSkpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uocm9vdCwgUVRyZWVXaWRnZXQpOgogICAgICAgICAgICAgICAgcm9vdC5hZGRUb3BMZXZlbEl0ZW0oY3VycmVudCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJvb3QuYWRkQ2hpbGQoY3VycmVudCkKICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIrj5vt3Wp7PFIiIiCg==</text>
+        <text encoding="base64">c2lwLnNldGFwaSgnUVZhcmlhbnQnLCAyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSgxMDI0LCA2MDApCg==</text>
+        <text encoding="base64">aW1wb3J0IHNpcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBsYXlvdXQK</text>
+        <text encoding="base64">cmVsb2FkKHN5cykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygndXRmOCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlIGxheW91dAogICAgbGF5b3V0ID0gUVZCb3hMYXlvdXQoKQogICAgbGF5b3V0LmFkZFdpZGdldCh0cmVlKQo=</text>
+        <text encoding="base64">c2NyYXRjaGVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGZzZXRMYXlvdXQobGF5b3V0KQo=</text>
+        <text encoding="base64">ICAgICIiIrj5vt3Wp7PFIiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfdHJlZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSgxMDI0LCA2MDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCAK</text>
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBsYXlvdXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search encoding="base64">XDxzaXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaXBcPg==</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -265,12 +280,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mode</entry>
-        <entry>mode\c</entry>
-        <entry encoding="base64">XDxVaV9Nb2RlU2VsZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxzZW5kX29uZV9saW5lX21zZ3NcPg==</entry>
-        <entry encoding="base64">XDxtc2dzX2ZpbGVfbGluZVw+</entry>
-        <entry encoding="base64">XDxnZXRfbXNnc19maWxlX2xpbmVcPg==</entry>
         <entry encoding="base64">XDxnZXRfbGlzdHNcPg==</entry>
         <entry encoding="base64">XDxsaXN0c1w+</entry>
         <entry encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</entry>
@@ -285,6 +294,12 @@
         <entry encoding="base64">XDxmaWxlXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxRdEd1aVw+</entry>
+        <entry encoding="base64">XDxRdFdpZGdldFw+</entry>
+        <entry encoding="base64">XDxRU3RhbmRhcmRJdGVtTW9kZWxcPg==</entry>
+        <entry encoding="base64">XDxRU3RhbmRhcmRJdGVtXD4=</entry>
+        <entry encoding="base64">XDxRdENvcmVcPg==</entry>
+        <entry encoding="base64">XDxzaXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
