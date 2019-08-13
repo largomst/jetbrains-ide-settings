@@ -9,11 +9,12 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565674456965">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565694282612">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="77" column="66" />
+        <mark key="]" line="78" column="11" />
+        <mark key="." line="78" column="11" />
+        <mark key="^" line="78" column="11" />
       </file>
       <file name="/Python Console" timestamp="1565675210925">
         <mark key="[" line="0" column="0" />
@@ -233,8 +234,8 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>DictType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="-" type="4">
         <text>DictType</text>
@@ -246,31 +247,31 @@
         <text encoding="base64">ZGVmIGdlbmVyYXRvcl90cmVlKGRhdGE6IGRpY3QsIHJvb3QpOgogICAgIiIiYWRkIGNoaWxkcmVuIG5vZGUgb2YgYSBRVHJlZVdpZGdldCBmcm9tIHlhbWwgZGF0YSIiIgogICAgZm9yIGtleSwgdmFsdWUgaW4gZGF0YS5pdGVtcygpOgogICAgICAgIGN1cnJlbnQgPSBRVHJlZVdpZGdldEl0ZW0oKQogICAgICAgIGN1cnJlbnQuc2V0VGV4dCgwLCBzdHIoa2V5KSkKCiAgICAgICAgaWYgaXNfY29udGFpbmVyKHZhbHVlKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyb290LCBRVHJlZVdpZGdldCk6CiAgICAgICAgICAgICAgICByb290LmFkZFRvcExldmVsSXRlbShjdXJyZW50KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQogICAgICAgICAgICBnZW5lcmF0b3JfdHJlZShkYXRhW2tleV0sIGN1cnJlbnQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY3VycmVudC5zZXRUZXh0KDEsIHN0cih2YWx1ZSkpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uocm9vdCwgUVRyZWVXaWRnZXQpOgogICAgICAgICAgICAgICAgcm9vdC5hZGRUb3BMZXZlbEl0ZW0oY3VycmVudCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJvb3QuYWRkQ2hpbGQoY3VycmVudCkKICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2lwLnNldGFwaSgnUVZhcmlhbnQnLCAyKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNpcAo=</text>
+        <text encoding="base64">c2lwLnNldGFwaSgnUVZhcmlhbnQnLCAyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVsb2FkKHN5cykK</text>
+        <text encoding="base64">aW1wb3J0IHNpcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygndXRmOCcpCg==</text>
+        <text encoding="base64">cmVsb2FkKHN5cykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NyYXRjaGVzCg==</text>
+        <text encoding="base64">c3lzLnNldGRlZmF1bHRlbmNvZGluZygndXRmOCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIrj5vt3Wp7PFIiIiCg==</text>
+        <text encoding="base64">c2NyYXRjaGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSgxMDI0LCA2MDApCg==</text>
+        <text encoding="base64">ICAgICIiIrj5vt3Wp7PFIiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBsYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSgxMDI0LCA2MDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBsYXlvdXQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
