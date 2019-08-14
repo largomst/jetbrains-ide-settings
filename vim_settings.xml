@@ -9,12 +9,12 @@
       <file name="/Dummy.txt" timestamp="1561946756774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565772181921">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="39" column="1" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="34" column="42" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565778958144">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="/Python Console" timestamp="1565772500790">
         <mark key="[" line="0" column="0" />
@@ -88,6 +88,9 @@
         <mark key="." line="423" column="15" />
         <mark key="^" line="423" column="15" />
       </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/qjsonmodel.py" timestamp="1565778879814">
+        <mark key="'" line="9" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1565679967312">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="17" />
@@ -110,9 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/Ui_FrameDebug.py" />
-      <jump line="588" column="57" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="606" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="589" column="66" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="612" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="731" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -210,6 +210,9 @@
       <jump line="53" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <jump line="17" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
       <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <jump line="16" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/qjsonmodel.py" />
+      <jump line="8" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/qjsonmodel.py" />
+      <jump line="9" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/qjsonmodel.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -240,7 +243,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaXBcPg==</text>
+        <text encoding="base64">XDxxanNvbm1vZGVsXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGdlbmVyYXRvcl90cmVlKGRhdGE6IGRpY3QsIHJvb3QpOgogICAgIiIiYWRkIGNoaWxkcmVuIG5vZGUgb2YgYSBRVHJlZVdpZGdldCBmcm9tIHlhbWwgZGF0YSIiIgogICAgZm9yIGtleSwgdmFsdWUgaW4gZGF0YS5pdGVtcygpOgogICAgICAgIGN1cnJlbnQgPSBRVHJlZVdpZGdldEl0ZW0oKQogICAgICAgIGN1cnJlbnQuc2V0VGV4dCgwLCBzdHIoa2V5KSkKCiAgICAgICAgaWYgaXNfY29udGFpbmVyKHZhbHVlKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyb290LCBRVHJlZVdpZGdldCk6CiAgICAgICAgICAgICAgICByb290LmFkZFRvcExldmVsSXRlbShjdXJyZW50KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQogICAgICAgICAgICBnZW5lcmF0b3JfdHJlZShkYXRhW2tleV0sIGN1cnJlbnQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY3VycmVudC5zZXRUZXh0KDEsIHN0cih2YWx1ZSkpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uocm9vdCwgUVRyZWVXaWRnZXQpOgogICAgICAgICAgICAgICAgcm9vdC5hZGRUb3BMZXZlbEl0ZW0oY3VycmVudCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJvb3QuYWRkQ2hpbGQoY3VycmVudCkKICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQo=</text>
@@ -277,9 +280,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaXBcPg==</last-search>
+      <last-search encoding="base64">XDxxanNvbm1vZGVsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxxanNvbm1vZGVsXD4=</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -287,7 +290,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfbGlzdHNcPg==</entry>
         <entry encoding="base64">XDxsaXN0c1w+</entry>
         <entry encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</entry>
         <entry>exchange</entry>
@@ -307,6 +309,7 @@
         <entry encoding="base64">XDxRU3RhbmRhcmRJdGVtXD4=</entry>
         <entry encoding="base64">XDxRdENvcmVcPg==</entry>
         <entry encoding="base64">XDxzaXBcPg==</entry>
+        <entry encoding="base64">XDxxanNvbm1vZGVsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
