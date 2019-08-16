@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1565940370595">
+      <file name="/Python Console" timestamp="1565943706679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -26,13 +26,15 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1565938909853">
+      <file name="/a.dummy" timestamp="1565942028492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/.gitignore" timestamp="1565938983564">
         <mark key="[" line="125" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" timestamp="1565941074441" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" timestamp="1565943750387">
+        <mark key="'" line="35" column="27" />
+      </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/utils.py" timestamp="1561598353550">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="17" column="0" />
@@ -47,7 +49,7 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565940907375">
+      <file name="/Dummy.txt" timestamp="1565941851119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565938869284">
@@ -80,11 +82,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" timestamp="1565941114143">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="51" />
-        <mark key="." line="26" column="51" />
-        <mark key="^" line="26" column="51" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" timestamp="1565943957738">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1565148678539">
         <mark key="'" line="75" column="0" />
@@ -116,17 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="417" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="414" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="403" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="474" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="531" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="317" column="19" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="425" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="338" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="337" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="418" column="56" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="424" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="217" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -216,6 +208,17 @@
       <jump line="20" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="21" column="39" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="5" column="10" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
+      <jump line="0" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
+      <jump line="309" column="10" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="311" column="10" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="10" column="14" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="22" column="51" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="23" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="26" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="29" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="31" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="34" column="37" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="35" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -239,53 +242,53 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYpOgogICAgICAgIHlhbWwgPSBZQU1MKCkKICAgICAgICB3aXRoIG9wZW4oJ3NhbXBsZS55YW1sJywgJ3InLCBlbmNvZGluZz0ndXRmLTgnKSAgYXMgZjoKICAgICAgICAgICAgZG9jdW1lbnQgPSB5YW1sLmxvYWQoZikKICAgICAgICAgICAgc2VsZi5tb2RlbC5sb2FkKGRvY3VtZW50KQo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZW1wXD4=</text>
+        <text encoding="base64">XDxsb2FkXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGdlbmVyYXRvcl90cmVlKGRhdGE6IGRpY3QsIHJvb3QpOgogICAgIiIiYWRkIGNoaWxkcmVuIG5vZGUgb2YgYSBRVHJlZVdpZGdldCBmcm9tIHlhbWwgZGF0YSIiIgogICAgZm9yIGtleSwgdmFsdWUgaW4gZGF0YS5pdGVtcygpOgogICAgICAgIGN1cnJlbnQgPSBRVHJlZVdpZGdldEl0ZW0oKQogICAgICAgIGN1cnJlbnQuc2V0VGV4dCgwLCBzdHIoa2V5KSkKCiAgICAgICAgaWYgaXNfY29udGFpbmVyKHZhbHVlKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShyb290LCBRVHJlZVdpZGdldCk6CiAgICAgICAgICAgICAgICByb290LmFkZFRvcExldmVsSXRlbShjdXJyZW50KQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQogICAgICAgICAgICBnZW5lcmF0b3JfdHJlZShkYXRhW2tleV0sIGN1cnJlbnQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY3VycmVudC5zZXRUZXh0KDEsIHN0cih2YWx1ZSkpCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uocm9vdCwgUVRyZWVXaWRnZXQpOgogICAgICAgICAgICAgICAgcm9vdC5hZGRUb3BMZXZlbEl0ZW0oY3VycmVudCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJvb3QuYWRkQ2hpbGQoY3VycmVudCkKICAgICAgICAgICAgcm9vdC5hZGRDaGlsZChjdXJyZW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYpOgogICAgICAgIHlhbWwgPSBZQU1MKCkKICAgICAgICB3aXRoIG9wZW4oJ3NhbXBsZS55YW1sJywgJ3InLCBlbmNvZGluZz0ndXRmLTgnKSAgYXMgZjoKICAgICAgICAgICAgZG9jdW1lbnQgPSB5YW1sLmxvYWQoZikKICAgICAgICAgICAgc2VsZi5tb2RlbC5sb2FkKGRvY3VtZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyZWVWaWV3LnNlbGVjdGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBpbmRleGVzWzBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5kZXgsIHR5cGUoaW5kZXgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsID0gUUpzb25Nb2RlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5kZXguY29sdW1uKCksaW5kZXgucm93KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyZWVWaWV3LnNldEV4cGFuZGVkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlhbWwgPSBZQU1MLmxvYWQoZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZW1wXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZW1wXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkXD4=</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -293,7 +296,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZXN0U2VuZFRocmVhZFw+</entry>
         <entry>exchange</entry>
         <entry>exchange\c</entry>
         <entry encoding="base64">XDxGaWxlRG93bmxvYWRlckV4Y2hhbmdlXD4=</entry>
@@ -313,6 +315,7 @@
         <entry encoding="base64">XDxzaXBcPg==</entry>
         <entry encoding="base64">XDxxanNvbm1vZGVsXD4=</entry>
         <entry encoding="base64">XDx0ZW1wXD4=</entry>
+        <entry encoding="base64">XDxsb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
