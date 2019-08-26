@@ -39,12 +39,6 @@
         <mark key="^" line="252" column="11" />
         <mark key="." line="252" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ship/ships-dict.pyw" timestamp="1566788222139">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="44" />
-        <mark key="^" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-      </file>
       <file name="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/689825633/PyQt5/QtCore/QAbstractItemModel.py" timestamp="1565947633420">
         <mark key="'" line="195" column="8" />
       </file>
@@ -87,11 +81,11 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ship/ships.py" timestamp="1566787981132">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/Desktop/Ship/ships.py" timestamp="1566789293352">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/" timestamp="1565662526086">
         <mark key="[" line="0" column="0" />
@@ -134,11 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="451" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="231" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="383" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="634" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="586" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="631" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" />
@@ -234,6 +223,11 @@
       <jump line="17" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="131" column="8" filename="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/689825633/PyQt5/QtWidgets/QWidget.py" />
       <jump line="6" column="60" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="614" column="69" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="27" column="16" filename="$USER_HOME$/Desktop/Ship/ships.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -258,10 +252,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>QString</text>
+        <text encoding="base64">CgpkZWYgY21wKGEsIGIpOgogICAgaWYgYSA8IGI6CiAgICAgICAgcmV0dXJuIC0xCiAgICBlbGlmIGEgPiBiOgogICAgICAgIHJldHVybiAxCiAgICBlbHNlOgogICAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>QString</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
@@ -269,32 +263,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1vZGVsLmluZGV4KDAsIDAsIFF0Q29yZS5RTW9kZWxJbmRleCgpLmRhdGEoKSkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFFTdHJpbmcgYXMgUVN0cmluZwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpkZWYgY21wKGEsIGIpOgogICAgaWYgYSA8IGI6CiAgICAgICAgcmV0dXJuIC0xCiAgICBlbGlmIGEgPiBiOgogICAgICAgIHJldHVybiAxCiAgICBlbHNlOgogICAgICAgIHJldHVybiAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFFTdHJpbmcgYXMgUVN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFFTdHJpbmcubG9jYWxlQXdhcmVDb21wYXJlKGEubmFtZSwgYi5uYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm93bmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBRU3RyaW5nLmxvY2FsZUF3YXJlQ29tcGFyZShhLm93bmVyLCBiLm93bmVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRlc2NyaXB0aW9uID0gZGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYS5vd25lciAhPSBiLm93bmVyOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1vZGVsLmluZGV4KDAsIDAsIFF0Q29yZS5RTW9kZWxJbmRleCgpLmRhdGEoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBRU3RyaW5nLmxvY2FsZUF3YXJlQ29tcGFyZShhLmNvdW50cnksIGIuY291bnRyeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1vZGVsLmluZGV4KDEsIDAsIFF0Q29yZS5RTW9kZWxJbmRleCgpLmRhdGEoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYS5jb3VudHJ5ICE9IGIuY291bnRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWN0aW9uc0NvbnRleHRNZW51Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51LmFkZEFjdGlvbihhZGQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGEuY291bnRyeSA8IGIuY291bnRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
