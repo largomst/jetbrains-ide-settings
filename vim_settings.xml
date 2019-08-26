@@ -97,12 +97,12 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ship/ships.py" timestamp="1566813318744">
-        <mark key="'" line="378" column="19" />
-        <mark key="[" line="154" column="67" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-        <mark key="^" line="15" column="39" />
+      <file name="$USER_HOME$/Desktop/Ship/ships.py" timestamp="1566817998015">
+        <mark key="'" line="379" column="19" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="155" column="43" />
       </file>
       <file name="/" timestamp="1565662526086">
         <mark key="[" line="0" column="0" />
@@ -271,7 +271,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbiA9IGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbSA8PCBzaGlwLm5hbWUgPDwgc2hpcC5vd25lciA8PCBzaGlwLmNvdW50cnkgPDwgc2hpcC5kZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>tableLabel</text>
@@ -283,31 +283,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlV2lkZ2V0Lml0ZW1DaGFuZ2VkLmNvbm5lY3Qoc2VsZi50YWJsZUl0ZW1DaGFuZ2VkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbiA9IGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbSA8PCBzaGlwLm5hbWUgPDwgc2hpcC5vd25lciA8PCBzaGlwLmNvdW50cnkgPDwgc2hpcC5kZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbiA9IGUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmIGlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm93bmVycy5hZGQob3duZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBmIGlzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNoaXBzW2lkKHNoaXApXSA9IHNoaXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm93bmVycy5hZGQob3duZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYWdpYyA9IHN0cmVhbS5yZWFkSW50MTYoKSAgIyC2wcihv6rNtwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNoaXBzW2lkKHNoaXApXSA9IHNoaXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNoaXBzID0gc2hpcHMuQ29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYWdpYyA9IHN0cmVhbS5yZWFkSW50MTYoKSAgIyC2wcihv6rNtwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlV2lkZ2V0Lml0ZW1DaGFuZ2VkLmNvbm5lY3Qoc2VsZi50YWJsZUl0ZW1DaGFuZ2VkKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNoaXBzID0gc2hpcHMuQ29udGFpbmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
