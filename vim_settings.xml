@@ -97,8 +97,8 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ship/ships.py" timestamp="1566802468236">
-        <mark key="'" line="437" column="43" />
+      <file name="$USER_HOME$/Desktop/Ship/ships.py" timestamp="1566813318744">
+        <mark key="'" line="378" column="19" />
         <mark key="[" line="154" column="67" />
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="39" />
@@ -140,7 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="23" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="315" column="24" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="316" column="26" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="317" column="30" filename="$USER_HOME$/Desktop/Ship/ships.py" />
@@ -240,6 +239,7 @@
       <jump line="431" column="43" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="433" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="437" column="43" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="378" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
