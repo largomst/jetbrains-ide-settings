@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566178440592">
+      <file name="/Python Console" timestamp="1566800936323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -29,6 +29,13 @@
       <file name="/a.dummy" timestamp="1565942028492">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Desktop/Ship/ships.py" timestamp="1566800019519">
+        <mark key="'" line="101" column="56" />
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+      </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/.gitignore" timestamp="1565938983564">
         <mark key="[" line="125" column="8" />
       </file>
@@ -39,12 +46,12 @@
         <mark key="^" line="252" column="11" />
         <mark key="." line="252" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ship/ships-dict.pyw" timestamp="1566790747312">
-        <mark key="'" line="243" column="84" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/Desktop/Ship/ships-dict.pyw" timestamp="1566801887359">
+        <mark key="'" line="120" column="16" />
+        <mark key="[" line="235" column="55" />
+        <mark key="]" line="224" column="41" />
+        <mark key="." line="224" column="41" />
+        <mark key="^" line="224" column="41" />
       </file>
       <file name="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/689825633/PyQt5/QtCore/QAbstractItemModel.py" timestamp="1565947633420">
         <mark key="'" line="195" column="8" />
@@ -58,12 +65,12 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566790991498">
-        <mark key="'" line="236" column="10" />
-        <mark key="[" line="86" column="29" />
-        <mark key="]" line="86" column="36" />
-        <mark key="." line="86" column="36" />
-        <mark key="^" line="86" column="36" />
+      <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566801588617">
+        <mark key="'" line="86" column="30" />
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="87" column="11" />
+        <mark key="." line="87" column="11" />
+        <mark key="^" line="87" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1565941851119">
         <mark key="[" line="0" column="0" />
@@ -90,12 +97,12 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ship/ships.py" timestamp="1566790772330">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="436" column="65" />
-        <mark key="." line="436" column="65" />
-        <mark key="^" line="436" column="65" />
+      <file name="$USER_HOME$/Desktop/Ship/ships.py" timestamp="1566801966249">
+        <mark key="'" line="116" column="43" />
+        <mark key="[" line="154" column="67" />
+        <mark key="]" line="116" column="43" />
+        <mark key="." line="116" column="43" />
+        <mark key="^" line="116" column="43" />
       </file>
       <file name="/" timestamp="1565662526086">
         <mark key="[" line="0" column="0" />
@@ -133,57 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="13" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="15" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="16" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="20" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="35" column="47" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="68" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="74" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="101" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="50" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="1" column="29" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="98" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="14" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="43" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="47" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="42" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="46" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="31" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="48" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="49" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="51" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="52" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="53" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
-      <jump line="17" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
-      <jump line="16" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/qjsonmodel.py" />
-      <jump line="8" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/qjsonmodel.py" />
-      <jump line="9" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/qjsonmodel.py" />
-      <jump line="3" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
-      <jump line="6" column="29" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
-      <jump line="60" column="10" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" />
-      <jump line="26" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="20" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="21" column="39" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="5" column="10" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="0" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="309" column="10" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="311" column="10" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="10" column="14" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="22" column="51" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="23" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="26" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="29" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="31" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="34" column="37" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="35" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="38" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="195" column="8" filename="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/689825633/PyQt5/QtCore/QAbstractItemModel.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/689825633/PyQt5/QtCore/QAbstractItemModel.py" />
-      <jump line="30" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="8" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="17" column="40" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="131" column="8" filename="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/689825633/PyQt5/QtWidgets/QWidget.py" />
       <jump line="614" column="69" filename="$USER_HOME$/Desktop/Ship/ships.py" />
@@ -233,6 +189,57 @@
       <jump line="243" column="84" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
       <jump line="245" column="10" filename="$USER_HOME$/Desktop/Ship/richtextlineedit.py" />
       <jump line="246" column="10" filename="$USER_HOME$/Desktop/Ship/richtextlineedit.py" />
+      <jump line="115" column="17" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="124" column="21" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="149" column="29" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="169" column="13" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="174" column="33" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="185" column="46" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="196" column="49" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="198" column="20" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="257" column="24" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="263" column="59" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="264" column="24" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="289" column="17" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="298" column="26" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="299" column="26" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="320" column="17" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="328" column="21" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="354" column="29" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="59" column="13" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="64" column="20" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="67" column="13" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="73" column="17" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="78" column="24" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="81" column="25" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="85" column="27" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="97" column="27" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="0" column="0" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="100" column="56" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="17" column="21" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="101" column="56" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="18" column="30" filename="D:/Desktop/Ship/ships.py" />
+      <jump line="235" column="36" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
+      <jump line="14" column="44" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="198" column="8" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="283" column="32" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="285" column="17" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="379" column="33" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="391" column="42" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="406" column="33" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="455" column="29" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="182" column="41" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
+      <jump line="254" column="0" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
+      <jump line="87" column="11" filename="$USER_HOME$/Desktop/Ship/richtextlineedit.py" />
+      <jump line="86" column="30" filename="$USER_HOME$/Desktop/Ship/richtextlineedit.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
+      <jump line="197" column="8" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
+      <jump line="144" column="32" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="628" column="58" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="106" column="8" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
+      <jump line="255" column="11" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
+      <jump line="120" column="16" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
+      <jump line="116" column="43" filename="$USER_HOME$/Desktop/Ship/ships.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -256,14 +263,14 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lbWl0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>toLongLong</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVuaWNvZGU=</text>
+        <text>toLongLong</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmljb2RlXD4=</text>
+        <text>returnPressed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1vZGVsLmluZGV4KDAsIDAsIFF0Q29yZS5RTW9kZWxJbmRleCgpLmRhdGEoKSkpCg==</text>
@@ -300,9 +307,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmljb2RlXD4=</last-search>
+      <last-search>returnPressed</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmljb2RlXD4=</last-pattern>
+      <last-pattern>returnPressed</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -310,9 +317,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delay</entry>
-        <entry encoding="base64">XDxmaWxlXD4=</entry>
-        <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxRdEd1aVw+</entry>
         <entry encoding="base64">XDxRdFdpZGdldFw+</entry>
@@ -330,6 +334,9 @@
         <entry encoding="base64">XDxsb2NhbGVBd2FyZUNvbXBhcmVcPg==</entry>
         <entry>QString</entry>
         <entry encoding="base64">XDx1bmljb2RlXD4=</entry>
+        <entry encoding="base64">XDxzaGlwc1w+</entry>
+        <entry>data</entry>
+        <entry>returnPressed</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
@@ -391,6 +398,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
