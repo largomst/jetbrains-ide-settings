@@ -110,11 +110,12 @@
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" timestamp="1566196740585">
         <mark key="[" line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ship/MyShip.py" timestamp="1566814901986">
-        <mark key="[" line="82" column="32" />
-        <mark key="]" line="82" column="31" />
-        <mark key="^" line="82" column="31" />
-        <mark key="." line="82" column="31" />
+      <file name="$USER_HOME$/Desktop/Ship/MyShip.py" timestamp="1566816155792">
+        <mark key="'" line="115" column="19" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="115" column="19" />
+        <mark key="." line="115" column="19" />
+        <mark key="^" line="115" column="19" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1565148678539">
         <mark key="'" line="75" column="0" />
@@ -146,9 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="24" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="316" column="26" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="317" column="30" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="372" column="33" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="110" column="23" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="111" column="24" filename="$USER_HOME$/Desktop/Ship/ships.py" />
@@ -246,6 +244,9 @@
       <jump line="433" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="437" column="43" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="378" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
+      <jump line="10" column="23" filename="$USER_HOME$/Desktop/Ship/MyShip.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Desktop/Ship/MyShip.py" />
+      <jump line="115" column="19" filename="$USER_HOME$/Desktop/Ship/MyShip.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -270,7 +271,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNoaXBzID0gc2hpcHMuQ29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbiA9IGUK</text>
       </register>
       <register name="-" type="4">
         <text>tableLabel</text>
@@ -282,31 +283,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlV2lkZ2V0Lml0ZW1DaGFuZ2VkLmNvbm5lY3Qoc2VsZi50YWJsZUl0ZW1DaGFuZ2VkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNoaXBzID0gc2hpcHMuQ29udGFpbmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbiA9IGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlV2lkZ2V0Lml0ZW1DaGFuZ2VkLmNvbm5lY3Qoc2VsZi50YWJsZUl0ZW1DaGFuZ2VkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlV2lkZ2V0Lml0ZW1DaGFuZ2VkLmNvbm5lY3Qoc2VsZi50YWJsZUl0ZW1DaGFuZ2VkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
+        <text encoding="base64">ICAgICAgICBpZiBmIGlzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lbWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm93bmVycy5hZGQob3duZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBQeVF0NC5RdEd1aSBpbXBvcnQgKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNoaXBzW2lkKHNoaXApXSA9IHNoaXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBQeVF0NC5RdENvcmUgaW1wb3J0ICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYWdpYyA9IHN0cmVhbS5yZWFkSW50MTYoKSAgIyC2wcihv6rNtwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNoaXBzID0gc2hpcHMuQ29udGFpbmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlV2lkZ2V0Lml0ZW1DaGFuZ2VkLmNvbm5lY3Qoc2VsZi50YWJsZUl0ZW1DaGFuZ2VkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
