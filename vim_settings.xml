@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1567492675740">
+      <file name="/Python Console" timestamp="1567493924743">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -36,15 +36,16 @@
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/.gitignore" timestamp="1565938983564">
-        <mark key="[" line="125" column="8" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/.gitignore" timestamp="1567494663441">
+        <mark key="[" line="128" column="6" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" timestamp="1565947642417">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/requirements.txt" timestamp="1567493977167" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" timestamp="1567494008220">
         <mark key="'" line="35" column="27" />
-        <mark key="[" line="252" column="12" />
-        <mark key="]" line="252" column="11" />
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="41" column="5" />
         <mark key="^" line="252" column="11" />
-        <mark key="." line="252" column="11" />
+        <mark key="." line="41" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/PySideSummer/Chapter14/ships-delegatePyside_ans.py" timestamp="1567393427123">
         <mark key="[" line="29" column="15" />
@@ -113,8 +114,11 @@
       <file name="/" timestamp="1565662526086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" timestamp="1566196740585">
-        <mark key="[" line="26" column="17" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" timestamp="1567494294030">
+        <mark key="'" line="18" column="27" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
+        <mark key="^" line="59" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/MyShip.py" timestamp="1566816155792">
         <mark key="'" line="115" column="19" />
@@ -122,6 +126,12 @@
         <mark key="]" line="115" column="19" />
         <mark key="." line="115" column="19" />
         <mark key="^" line="115" column="19" />
+      </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/Makefile" timestamp="1567494529414">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/SimGUI/main.py" timestamp="1565148678539">
         <mark key="'" line="75" column="0" />
@@ -143,18 +153,8 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1565675258606">
-        <mark key="'" line="54" column="34" />
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="49" column="32" />
-        <mark key="^" line="45" column="27" />
-        <mark key="." line="49" column="32" />
-        <mark key="n" line="7" column="17" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="10" filename="$USER_HOME$/Desktop/Ship/richtextlineedit.py" />
-      <jump line="115" column="17" filename="D:/Desktop/Ship/ships.py" />
       <jump line="124" column="21" filename="D:/Desktop/Ship/ships.py" />
       <jump line="149" column="29" filename="D:/Desktop/Ship/ships.py" />
       <jump line="169" column="13" filename="D:/Desktop/Ship/ships.py" />
@@ -253,6 +253,8 @@
       <jump line="119" column="20" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
       <jump line="121" column="36" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
       <jump line="130" column="53" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
+      <jump line="18" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -276,11 +278,11 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>QtGui</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YnVpbGQ6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>QtGui</text>
+        <text>PyQt5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxRdEd1aVw+</text>
@@ -289,31 +291,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlV2lkZ2V0Lml0ZW1DaGFuZ2VkLmNvbm5lY3Qoc2VsZi50YWJsZUl0ZW1DaGFuZ2VkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UXRHdWkuUVBpeAo=</text>
+        <text encoding="base64">YnVpbGQ6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UXRHdWkuUUZvbnQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGVsLmluZGV4KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbSA8PCBzaGlwLm5hbWUgPDwgc2hpcC5vd25lciA8PCBzaGlwLmNvdW50cnkgPDwgc2hpcC5kZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">UXRXaWRnZXRzLlFBYnN0cmFjdEl0ZW1WaWV3Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbiA9IGUK</text>
+        <text encoding="base64">UQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UXRHdWkuUVBpeAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UXRHdWkuUUZvbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmIGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmVhbSA8PCBzaGlwLm5hbWUgPDwgc2hpcC5vd25lciA8PCBzaGlwLmNvdW50cnkgPDwgc2hpcC5kZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm93bmVycy5hZGQob3duZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbiA9IGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNoaXBzW2lkKHNoaXApXSA9IHNoaXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/clicked\.connected/clicked\.connect/g</text>
