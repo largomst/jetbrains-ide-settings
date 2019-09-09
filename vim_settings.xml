@@ -6,6 +6,13 @@
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" timestamp="1568014558538">
+        <mark key="'" line="183" column="16" />
+        <mark key="[" line="183" column="17" />
+        <mark key="]" line="183" column="15" />
+        <mark key="." line="183" column="15" />
+        <mark key="^" line="183" column="15" />
+      </file>
       <file name="/Python Console" timestamp="1567497885648">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="24" filename="D:/Desktop/Ship/ships.py" />
-      <jump line="263" column="59" filename="D:/Desktop/Ship/ships.py" />
       <jump line="264" column="24" filename="D:/Desktop/Ship/ships.py" />
       <jump line="289" column="17" filename="D:/Desktop/Ship/ships.py" />
       <jump line="298" column="26" filename="D:/Desktop/Ship/ships.py" />
@@ -247,6 +252,8 @@
       <jump line="3" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="217" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
       <jump line="231" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
+      <jump line="183" column="16" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
+      <jump line="35" column="30" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -270,14 +277,14 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5tb2RlbC5pbmRleCgpLmRhKQo=</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVJbmRleFw+</text>
+        <text encoding="base64">XDxkb2Nrc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGV4aXRfYWN0aW9uID0gUXRXaWRnZXRzLlFBY3Rpb24oJ0V4aXQnLHNlbGYpCiAgICAgICAgZXhpdF9hY3Rpb24uc2V0U2hvcnRjdXQoJ0N0cmwrUScpCiAgICAgICAgZXhpdF9hY3Rpb24udHJpZ2dlcmVkLmNvbm5lY3Qoc2VsZi5leGl0QXBwKQogICAgICAgIHNlbGYubWVudUZpbGUuYWRkQWN0aW9uKGV4aXRfYWN0aW9uKQo=</text>
@@ -310,13 +317,13 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBpdGVtOiBRSnNvblRyZWVJdGVtID0gaW5kZXguaW50ZXJuYWxQb2ludGVyKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/clicked\.connected/clicked\.connect/g</text>
+        <text>set cb</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVJbmRleFw+</last-search>
+      <last-search encoding="base64">XDxkb2Nrc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVJbmRleFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkb2Nrc1w+</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaXBcPg==</entry>
         <entry encoding="base64">XDxxanNvbm1vZGVsXD4=</entry>
         <entry encoding="base64">XDx0ZW1wXD4=</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
@@ -344,9 +350,12 @@
         <entry>returnPressed</entry>
         <entry encoding="base64">XDxRdEd1aVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVJbmRleFw+</entry>
+        <entry encoding="base64">XDxkb2Nrc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
+        <entry>set cp</entry>
+        <entry>set cb</entry>
       </history-cmd>
       <history-expr />
       <history-input />
