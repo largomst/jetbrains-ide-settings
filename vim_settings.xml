@@ -39,14 +39,6 @@
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/.gitignore" timestamp="1567494663441">
         <mark key="[" line="128" column="6" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/requirements.txt" timestamp="1567493977167" />
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" timestamp="1567504855668">
-        <mark key="'" line="231" column="20" />
-        <mark key="[" line="275" column="89" />
-        <mark key="]" line="217" column="33" />
-        <mark key="." line="217" column="33" />
-        <mark key="^" line="217" column="33" />
-      </file>
       <file name="$USER_HOME$/Desktop/PySideSummer/Chapter14/ships-delegatePyside_ans.py" timestamp="1567393427123">
         <mark key="[" line="29" column="15" />
       </file>
@@ -114,12 +106,11 @@
       <file name="/" timestamp="1565662526086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/Ui_MainWindow.py" timestamp="1567497984880" />
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" timestamp="1567505386606">
         <mark key="e" line="34" column="20" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/MyShip.py" timestamp="1566816155792">
         <mark key="'" line="115" column="19" />
