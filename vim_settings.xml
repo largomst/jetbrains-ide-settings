@@ -94,8 +94,8 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" timestamp="1568079225393">
-        <mark key="'" line="526" column="17" />
+      <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" timestamp="1568081903735">
+        <mark key="'" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" timestamp="1567393382801">
         <mark key="'" line="130" column="53" />
@@ -158,8 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="0" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
-      <jump line="87" column="11" filename="$USER_HOME$/Desktop/Ship/richtextlineedit.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
       <jump line="197" column="8" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
       <jump line="144" column="32" filename="$USER_HOME$/Desktop/Ship/ships.py" />
@@ -258,6 +256,8 @@
       <jump line="33" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="15" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="95" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="525" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
