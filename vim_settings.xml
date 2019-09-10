@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" timestamp="1568078105173">
+      <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" timestamp="1568099112792">
         <mark key="'" line="99" column="21" />
         <mark key="[" line="183" column="17" />
         <mark key="]" line="183" column="15" />
@@ -150,6 +150,11 @@
         <mark key="." line="423" column="15" />
         <mark key="^" line="423" column="15" />
       </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" timestamp="1568100408190">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1565679967312">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="17" />
@@ -158,19 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
-      <jump line="197" column="8" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
-      <jump line="144" column="32" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="628" column="58" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="106" column="8" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
-      <jump line="255" column="11" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
-      <jump line="120" column="16" filename="$USER_HOME$/Desktop/Ship/ships-dict.pyw" />
-      <jump line="116" column="43" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="371" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="398" column="12" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="410" column="15" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="442" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="468" column="12" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="480" column="12" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="15" column="28" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="501" column="37" filename="$USER_HOME$/Desktop/Ship/ships.py" />
@@ -258,6 +250,19 @@
       <jump line="95" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="525" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
       <jump line="26" column="0" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="116" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="87" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="118" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="109" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="136" column="52" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="152" column="29" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -282,43 +287,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51RWRpdCA9IHNlbGYubWVudWJhci5hZGRNZW51KCcmRWRpdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>addAction</text>
+        <text>’</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW51YmFyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpdHRlci5zZXRNaW5pbXVtV2lkdGgoc2VsZi53aWR0aCgpKjMvNSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICdPc1Rhc2tBY3RpdmF0aW9uJzogMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdPc1Rhc2tQcmlvcml0eSc6IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnT3NUYXNrQWNjZXNzaW5nQXBwbGljYXRpb24nOiBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdPc1Rhc2tFdmVudFJlZic6IFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ09zVGFza1Jlc291cmNlUmVmJzogW10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnT3NUYXNrU3RhY2tTaXplJzogW10sCiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51RWRpdCA9IHNlbGYubWVudWJhci5hZGRNZW51KCcmRWRpdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51RmlsZSA9IG1lbnViYXIuYWRkTWVudSgnJkZpbGUnKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51RmlsZS5hZGRBY3Rpb24oKQo=</text>
+        <text encoding="base64">ZGVmIGFkZEFsYXJtU2V0RXZlbnQoKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51RmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51YmFyLmFkZE1lbnUobWVudUVkaXQpCg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51YmFyLmFkZE1lbnUobWVudUZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51ID0gc2VsZi5tZW51QmFyKCkK</text>
+        <text encoding="base64">ICAgIGRlZiByZW1vdmVUYXNrKHNlbGYpOgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpjbGFzcyBUYXNrQ29uZmlnKCk6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi50YXNrcyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
