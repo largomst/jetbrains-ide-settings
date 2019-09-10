@@ -150,11 +150,11 @@
         <mark key="." line="423" column="15" />
         <mark key="^" line="423" column="15" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" timestamp="1568107201795">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" timestamp="1568111718382">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1565679967312">
         <mark key="[" line="6" column="19" />
@@ -288,7 +288,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFuaW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQuYWRkCg==</text>
       </register>
       <register name="-" type="4">
         <text>ensureVisible</text>
@@ -300,31 +300,31 @@
         <text encoding="base64">ICdPc1Rhc2tBY3RpdmF0aW9uJzogMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdPc1Rhc2tQcmlvcml0eSc6IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnT3NUYXNrQWNjZXNzaW5nQXBwbGljYXRpb24nOiBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdPc1Rhc2tFdmVudFJlZic6IFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ09zVGFza1Jlc291cmNlUmVmJzogW10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnT3NUYXNrU3RhY2tTaXplJzogW10sCiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFuaW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQuYWRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldEFuaW1hdGVkKFRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFuaW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndpZGdlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldEFuaW1hdGVkKFRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjcm9sbEFyZWEuCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndpZGdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0TWVudSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjcm9sbEFyZWEuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0VGhpc1dpbmRvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0TWVudSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0QWxsV2luZG93U3R5bGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0VGhpc1dpbmRvdygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0V2lkZ2V0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0QWxsV2luZG93U3R5bGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjcm9sbEFyZWEuZW5zdXJlV2lkZ2V0VmlzaWJsZShsYWJlbHNbOTBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0V2lkZ2V0cygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
