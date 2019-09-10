@@ -94,8 +94,8 @@
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" timestamp="1568081903735">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" timestamp="1568106288357">
+        <mark key="'" line="520" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" timestamp="1567393382801">
         <mark key="'" line="130" column="53" />
@@ -150,10 +150,11 @@
         <mark key="." line="423" column="15" />
         <mark key="^" line="423" column="15" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" timestamp="1568100408190">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" timestamp="1568107201795">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1565679967312">
         <mark key="[" line="6" column="19" />
@@ -163,13 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="24" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="282" column="24" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="89" column="12" filename="$USER_HOME$/Desktop/Ship/richtextlineedit.py" />
-      <jump line="86" column="30" filename="$USER_HOME$/Desktop/Ship/richtextlineedit.py" />
-      <jump line="439" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="431" column="43" filename="$USER_HOME$/Desktop/Ship/ships.py" />
-      <jump line="433" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="437" column="43" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="378" column="19" filename="$USER_HOME$/Desktop/Ship/ships.py" />
       <jump line="10" column="23" filename="$USER_HOME$/Desktop/Ship/MyShip.py" />
@@ -255,7 +249,6 @@
       <jump line="118" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="8" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="109" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="136" column="52" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="152" column="29" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="189" column="41" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
@@ -263,6 +256,14 @@
       <jump line="43" column="13" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
       <jump line="67" column="34" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
       <jump line="68" column="29" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="386" column="10" filename="$USER_HOME$/python/src/github.com/autoas/as/.env/Lib/site-packages/PyQt5/uic/Compiler/qtproxies.py" />
+      <jump line="389" column="10" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
+      <jump line="522" column="29" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
+      <jump line="582" column="37" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
+      <jump line="297" column="32" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
+      <jump line="520" column="14" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -287,52 +288,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFuaW1lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>’</text>
+        <text>ensureVisible</text>
       </register>
       <register name="/" type="4">
-        <text>module</text>
+        <text encoding="base64">XDxVSUdyb3VwXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICdPc1Rhc2tBY3RpdmF0aW9uJzogMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdPc1Rhc2tQcmlvcml0eSc6IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnT3NUYXNrQWNjZXNzaW5nQXBwbGljYXRpb24nOiBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdPc1Rhc2tFdmVudFJlZic6IFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ09zVGFza1Jlc291cmNlUmVmJzogW10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnT3NUYXNrU3RhY2tTaXplJzogW10sCiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFuaW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldEFuaW1hdGVkKFRydWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGFkZEFsYXJtU2V0RXZlbnQoKToK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndpZGdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjcm9sbEFyZWEuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0TWVudSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0VGhpc1dpbmRvdygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0QWxsV2luZG93U3R5bGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiByZW1vdmVUYXNrKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0V2lkZ2V0cygpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpjbGFzcyBUYXNrQ29uZmlnKCk6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi50YXNrcyA9IFtdCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNjcm9sbEFyZWEuZW5zdXJlV2lkZ2V0VmlzaWJsZShsYWJlbHNbOTBdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
       </register>
     </registers>
     <search>
-      <last-search>module</last-search>
+      <last-search encoding="base64">XDxVSUdyb3VwXD4=</last-search>
       <last-offset />
-      <last-pattern>module</last-pattern>
+      <last-pattern encoding="base64">XDxVSUdyb3VwXD4=</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -340,10 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>returnPressed</entry>
-        <entry encoding="base64">XDxRdEd1aVw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVJbmRleFw+</entry>
         <entry encoding="base64">XDxkb2Nrc1w+</entry>
         <entry encoding="base64">XDxsb2FkUGx1Z2luc1w+</entry>
         <entry encoding="base64">XDxBcmdNb2R1bGVcPg==</entry>
@@ -360,6 +357,10 @@
         <entry encoding="base64">XDxtZW51YmFyXD4=</entry>
         <entry>model</entry>
         <entry>module</entry>
+        <entry>qsc</entry>
+        <entry>area</entry>
+        <entry>Area</entry>
+        <entry encoding="base64">XDxVSUdyb3VwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
