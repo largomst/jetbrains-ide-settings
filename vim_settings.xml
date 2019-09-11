@@ -13,7 +13,7 @@
         <mark key="." line="183" column="15" />
         <mark key="^" line="183" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1568186784891">
+      <file name="/Python Console" timestamp="1568192174406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -68,12 +68,12 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568189923085">
-        <mark key="'" line="1" column="27" />
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="43" column="11" />
-        <mark key="." line="43" column="11" />
-        <mark key="^" line="43" column="11" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568192514994">
+        <mark key="'" line="0" column="32" />
+        <mark key="[" line="70" column="46" />
+        <mark key="]" line="81" column="72" />
+        <mark key="." line="81" column="72" />
+        <mark key="^" line="81" column="72" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566802491004">
         <mark key="'" line="86" column="30" />
@@ -172,8 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="37" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
-      <jump line="157" column="17" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
       <jump line="160" column="17" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
       <jump line="163" column="17" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
       <jump line="166" column="35" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
@@ -272,6 +270,8 @@
       <jump line="118" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="4" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="1" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="0" column="32" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -295,8 +295,8 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>widget</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaGFuZ2VMYXlvdXQuYWRkV2lkZ2V0KGNvbmZpZ1dpZGdldCkK</text>
       </register>
       <register name="-" type="4">
         <text>widget</text>
@@ -308,31 +308,31 @@
         <text encoding="base64">CgpjbGFzcyBEYXRlRGlhbG9nKFFEaWFsb2cpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhcmVudD1Ob25lKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKHBhcmVudCkKICAgICAgICBzZWxmLmRhdGV0aW1lID0gUURhdGVUaW1lRWRpdChzZWxmKQogICAgICAgIHNlbGYuZGF0ZXRpbWUuc2V0Q2FsZW5kYXJQb3B1cChUcnVlKQogICAgICAgIHNlbGYuZGF0ZXRpbWUuc2V0RGF0ZVRpbWUoUXRDb3JlLlFEYXRlVGltZS5jdXJyZW50RGF0ZVRpbWUoKSkKICAgICAgICBzZWxmLmJ1dHRvbnMgPSBRRGlhbG9nQnV0dG9uQm94KFFEaWFsb2dCdXR0b25Cb3guT2sgfCBRRGlhbG9nQnV0dG9uQm94LkNhbmNlbCwgUXQuSG9yaXpvbnRhbCwgc2VsZikKCiAgICAgICAgbGF5b3V0ID0gUVZCb3hMYXlvdXQoc2VsZikKICAgICAgICBsYXlvdXQuYWRkV2lkZ2V0KHNlbGYuZGF0ZXRpbWUpCiAgICAgICAgbGF5b3V0LmFkZFdpZGdldChzZWxmLmJ1dHRvbnMpCgogICAgICAgIHNlbGYuYnV0dG9ucy5hY2NlcHRlZC5jb25uZWN0KHNlbGYuYWNjZXB0KQogICAgICAgIHNlbGYuYnV0dG9ucy5yZWplY3RlZC5jb25uZWN0KHNlbGYucmVqZWN0KQoKICAgIGRlZiBkYXRlVGltZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5kYXRldGltZS5kYXRlVGltZSgpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGdldERhdGVUaW1lKHBhcmVudD1Ob25lKToKICAgICAgICBkaWFsb2cgPSBEYXRlRGlhbG9nKHBhcmVudCkKICAgICAgICByZXN1bHQgPSBkaWFsb2cuZXhlY18oKQogICAgICAgIGRhdGUgPSBkaWFsb2cuZGF0ZVRpbWUoKQogICAgICAgIHJldHVybiAoZGF0ZS5kYXRlKCksIGRhdGUudGltZSgpLCByZXN1bHQgPT0gUURpYWxvZy5BY2NlcHRlZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jaGFuZ2VMYXlvdXQuYWRkV2lkZ2V0KGNvbmZpZ1dpZGdldCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBzaG93RGlhbG9nKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkbGcgPQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLkNvbmZpZ0RpYWxvZyA9IENvbmZpZ0RpYWxvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbmZpZ0RpYWxvZyA9IGNvbmZpZ0RpYWxvZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXQoY2xzLCBwYXJlbnQ9Tm9uZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dC5hZGRMYXlvdXQoc2VsZkxheW91dCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dC5hZGRMYXlvdXQoc2VsZkxheW91dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkbGcgPSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhCg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
