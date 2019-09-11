@@ -13,7 +13,7 @@
         <mark key="." line="183" column="15" />
         <mark key="^" line="183" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1568080393913">
+      <file name="/Python Console" timestamp="1568186784891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -68,11 +68,11 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568173307125">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="13" column="41" />
-        <mark key="." line="13" column="41" />
-        <mark key="^" line="13" column="41" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568186825602">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566802491004">
         <mark key="'" line="86" column="30" />
@@ -156,8 +156,8 @@
         <mark key="." line="423" column="15" />
         <mark key="^" line="423" column="15" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" timestamp="1568113128859">
-        <mark key="'" line="123" column="20" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" timestamp="1568185569451">
+        <mark key="'" line="118" column="0" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="143" column="69" />
         <mark key="." line="145" column="0" />
@@ -246,7 +246,6 @@
       <jump line="116" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="6" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="87" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="118" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="8" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="109" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="136" column="52" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
@@ -271,6 +270,7 @@
       <jump line="124" column="13" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="129" column="37" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="123" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -295,52 +295,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzcGluQm94QWN0aXZhdGlvbi5zZXRUb29sVGlwKCkK</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25SZW1vdmVUYXNrLmNsaWNrZWQuY29ubmVjdChsYW1iZGE6IHBhcmVudC5yZW1vdmVUYXNrKHNlbGYud2lkZ2V0VGFzaykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>setStatusTip</text>
+        <text>removeMe</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhdGltZVw+</text>
+        <text>qs</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CgpjbGFzcyBEYXRlRGlhbG9nKFFEaWFsb2cpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHBhcmVudD1Ob25lKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKHBhcmVudCkKICAgICAgICBzZWxmLmRhdGV0aW1lID0gUURhdGVUaW1lRWRpdChzZWxmKQogICAgICAgIHNlbGYuZGF0ZXRpbWUuc2V0Q2FsZW5kYXJQb3B1cChUcnVlKQogICAgICAgIHNlbGYuZGF0ZXRpbWUuc2V0RGF0ZVRpbWUoUXRDb3JlLlFEYXRlVGltZS5jdXJyZW50RGF0ZVRpbWUoKSkKICAgICAgICBzZWxmLmJ1dHRvbnMgPSBRRGlhbG9nQnV0dG9uQm94KFFEaWFsb2dCdXR0b25Cb3guT2sgfCBRRGlhbG9nQnV0dG9uQm94LkNhbmNlbCwgUXQuSG9yaXpvbnRhbCwgc2VsZikKCiAgICAgICAgbGF5b3V0ID0gUVZCb3hMYXlvdXQoc2VsZikKICAgICAgICBsYXlvdXQuYWRkV2lkZ2V0KHNlbGYuZGF0ZXRpbWUpCiAgICAgICAgbGF5b3V0LmFkZFdpZGdldChzZWxmLmJ1dHRvbnMpCgogICAgICAgIHNlbGYuYnV0dG9ucy5hY2NlcHRlZC5jb25uZWN0KHNlbGYuYWNjZXB0KQogICAgICAgIHNlbGYuYnV0dG9ucy5yZWplY3RlZC5jb25uZWN0KHNlbGYucmVqZWN0KQoKICAgIGRlZiBkYXRlVGltZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5kYXRldGltZS5kYXRlVGltZSgpCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGdldERhdGVUaW1lKHBhcmVudD1Ob25lKToKICAgICAgICBkaWFsb2cgPSBEYXRlRGlhbG9nKHBhcmVudCkKICAgICAgICByZXN1bHQgPSBkaWFsb2cuZXhlY18oKQogICAgICAgIGRhdGUgPSBkaWFsb2cuZGF0ZVRpbWUoKQogICAgICAgIHJldHVybiAoZGF0ZS5kYXRlKCksIGRhdGUudGltZSgpLCByZXN1bHQgPT0gUURpYWxvZy5BY2NlcHRlZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcGluQm94QWN0aXZhdGlvbi5zZXRUb29sVGlwKCkK</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25SZW1vdmVUYXNrLmNsaWNrZWQuY29ubmVjdChsYW1iZGE6IHBhcmVudC5yZW1vdmVUYXNrKHNlbGYud2lkZ2V0VGFzaykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53aWQK</text>
+        <text encoding="base64">ICAgICAgICBidXR0b25SZW1vdmVUYXNrID0gUVB1c2hCdXR0b24oJ1gnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndpZGdldFRhc2suc2V0TGF5b3V0KGdyKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndpZGdldFRhc2sgPSBRV2lkZ2V0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkbGdUYXNrID0gVGFza0RpYWxvZyhzZWxmKQoK</text>
+        <text encoding="base64">IHNlbGYud2lkZ2V0VGFzayA9IFFXaWRnZXQoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkbGdUYXNrLmV4ZWNfKCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGJ1dHRvblJlbW92ZVRhc2sgPSBRUHVzaEJ1dHRvbignWCcpCiAgICAgICAgYnV0dG9uUmVtb3ZlVGFzay5jbGlja2VkLmNvbm5lY3QobGFtYmRhOiBwYXJlbnQucmVtb3ZlVGFzayhzZWxmLndpZGdldFRhc2spKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrV2lkZ2V0ID0gZGlhbG9nLmdldFRhc2soKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dC5hZGRTdHJldGNoKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dC5zdHJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVVaSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRUYXNrKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYXlvdXQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhdGltZVw+</last-search>
+      <last-search>qs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhdGltZVw+</last-pattern>
+      <last-pattern>qs</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -348,7 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkUGx1Z2luc1w+</entry>
         <entry encoding="base64">XDxBcmdNb2R1bGVcPg==</entry>
         <entry encoding="base64">XDxtYWluXD4=</entry>
         <entry encoding="base64">XDxhcm9ialRyZWVcPg==</entry>
@@ -368,6 +367,7 @@
         <entry>Area</entry>
         <entry encoding="base64">XDxVSUdyb3VwXD4=</entry>
         <entry encoding="base64">XDxkYXRhdGltZVw+</entry>
+        <entry>qs</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
