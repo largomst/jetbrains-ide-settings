@@ -68,13 +68,13 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568256858698">
-        <mark key="a" line="90" column="12" />
-        <mark key="'" line="16" column="24" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568267090862">
+        <mark key="a" line="92" column="12" />
+        <mark key="'" line="41" column="7" />
+        <mark key="[" line="131" column="19" />
+        <mark key="]" line="131" column="7" />
+        <mark key="." line="131" column="7" />
+        <mark key="^" line="131" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566802491004">
         <mark key="'" line="86" column="30" />
@@ -173,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="27" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="65" column="43" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="31" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="75" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="3" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
@@ -270,9 +267,12 @@
       <jump line="19" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="9" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="18" column="51" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="14" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="15" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="139" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="41" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -296,11 +296,11 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ActivatationSpinBox</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ActivatationSpinBox</text>
+        <text>FileNotFoundError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY3RpdmF0YXRpb25TcGluQm94XD4=</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">IEFjdGl2YXRhdGlvblNwaW5Cb3g=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcGluQm94QWN0aXZhdGlvbgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbFRhc2tBY3RpdmF0aW9uCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRmlsZU5vdEZvdW5kRXJyb3IK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBvcGVuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlhbWwubAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldE1heGltdW1IZWlnaHQoc2NyZWVuSGVpZ2h0IC0gMTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGF0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1heAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNrdG9wLgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldE1heGltdW1IZWlnaHQoc2VsZi5nZW9tZXRyeSgpLmhlaWdodCgpIC0gMTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzcGluQm94QWN0aXZhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
