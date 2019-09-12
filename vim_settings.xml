@@ -68,12 +68,12 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568272024865">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568275921556">
         <mark key="a" line="92" column="12" />
-        <mark key="[" line="161" column="30" />
-        <mark key="]" line="139" column="20" />
-        <mark key="." line="139" column="20" />
-        <mark key="^" line="139" column="20" />
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="143" column="40" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566802491004">
         <mark key="'" line="86" column="30" />
@@ -172,12 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="217" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="231" column="20" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" />
-      <jump line="183" column="16" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
-      <jump line="35" column="30" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
       <jump line="83" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
       <jump line="176" column="25" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
       <jump line="55" column="13" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
@@ -252,7 +246,6 @@
       <jump line="76" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="71" column="64" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="77" column="37" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="67" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="88" column="19" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="33" column="18" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
@@ -268,10 +261,17 @@
       <jump line="15" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="83" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="13" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
-      <jump line="139" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="41" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="135" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="145" column="21" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="146" column="42" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="142" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="143" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="144" column="28" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="141" column="25" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="139" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="140" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -296,52 +296,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnYic6IHsnYSc6IDB9Cg==</text>
+        <text encoding="base64">ZGVmIHRyYXZlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text encoding="base64">cm9vdCArIGtleSArICcvJywg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmF2ZV9kb2N1bWVudFw+</text>
+        <text encoding="base64">XDxzdGFydF9ub2RlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IEFjdGl2YXRhdGlvblNwaW5Cb3g=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnYic6IHsnYSc6IDB9Cg==</text>
+        <text encoding="base64">ZGVmIHRyYXZlCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYXZlX2l0ZXIoKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmRlZg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYXZlX2l0ZXIobWFwX2RpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnYic6IDIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbltyb290XSA9IGdyYXBoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnYyc6IHsnZCc6IHsnZSc6IEZhbHNlfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCB0cmF2ZV9pdGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgpkZWY=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhdmUoKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cmF2ZV9pdGVyKCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpkZWYgdHJhdmUoZ3JhcGgpOgogICAgbWFwX2RpY3QgPSB7fQoKICAgIGRlZiB0cmF2ZV9pdGVyKGdyYXBoLCBtYXBfZGljdCwgcGF0aD0nLycpOgogICAgICAgIGZvciBrZXksIHZhbHVlIGluIGdyYXBoLml0ZW1zKCk6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGRpY3QpOgogICAgICAgICAgICAgICAgdHJhdmVfaXRlcih2YWx1ZSwgbWFwX2RpY3QsIHBhdGggKyBrZXkgKyAnLycpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwYXRoICs9IGtleSArICcnCiAgICAgICAgICAgICAgICBtYXBfZGljdFtwYXRoXSA9IHZhbHVlCgogICAgdHJhdmVfaXRlcihncmFwaCwgbWFwX2RpY3QpCiAgICByZXR1cm4gbWFwX2RpY3QK</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmF2ZV9kb2N1bWVudFw+</last-search>
+      <last-search encoding="base64">XDxzdGFydF9ub2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmF2ZV9kb2N1bWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydF9ub2RlXD4=</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -349,9 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model</entry>
-        <entry>module</entry>
-        <entry>qsc</entry>
         <entry>area</entry>
         <entry>Area</entry>
         <entry encoding="base64">XDxVSUdyb3VwXD4=</entry>
@@ -369,6 +366,9 @@
         <entry encoding="base64">XDxsYWJlbE5hbWVcPg==</entry>
         <entry encoding="base64">XDxBY3RpdmF0YXRpb25TcGluQm94XD4=</entry>
         <entry encoding="base64">XDx0cmF2ZV9kb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxjdXJyZW50X3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW50X2dyYXBoXD4=</entry>
+        <entry encoding="base64">XDxzdGFydF9ub2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
