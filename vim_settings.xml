@@ -68,13 +68,13 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568267090862">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568270439011">
         <mark key="a" line="92" column="12" />
         <mark key="'" line="41" column="7" />
-        <mark key="[" line="131" column="19" />
-        <mark key="]" line="131" column="7" />
-        <mark key="." line="131" column="7" />
-        <mark key="^" line="131" column="7" />
+        <mark key="[" line="145" column="53" />
+        <mark key="]" line="139" column="34" />
+        <mark key="." line="139" column="34" />
+        <mark key="^" line="139" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566802491004">
         <mark key="'" line="86" column="30" />
@@ -297,7 +297,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>FileNotFoundError</text>
@@ -309,31 +309,31 @@
         <text encoding="base64">IEFjdGl2YXRhdGlvblNwaW5Cb3g=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRmlsZU5vdEZvdW5kRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwX2RpY3RbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlhbWwubAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaywgdikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGdyYXBoLml0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzcGluQm94QWN0aXZhdGlvbgo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
