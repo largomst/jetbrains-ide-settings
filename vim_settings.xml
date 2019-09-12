@@ -68,11 +68,11 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568248650543">
-        <mark key="[" line="73" column="54" />
-        <mark key="]" line="73" column="27" />
-        <mark key="." line="73" column="27" />
-        <mark key="^" line="73" column="27" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568250095283">
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="77" column="47" />
+        <mark key="." line="77" column="47" />
+        <mark key="^" line="77" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566802491004">
         <mark key="'" line="86" column="30" />
@@ -294,11 +294,11 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdXR0b24K</text>
+      <register name="&quot;" type="4">
+        <text>grid</text>
       </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text>grid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXlvdXRUYXNrXD4=</text>
@@ -307,31 +307,31 @@
         <text encoding="base64">ICAgICAgICBzY3JvbGxBcmVhLnNldFdpZGdldFJlc2l6YWJsZShUcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdXR0b24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQoKS5hZGRXaWRnZXQoY2xvc2VCdXR0b24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQoKS5hZGRXaWRnZXQoY2xvc2VCdXR0b24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5zZXRQYXJlbnQoc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdXR0b24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg0MDAsIDYwMCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg0MDAsIDYwMCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQoKS5hZGRXaWRnZXQoY2xvc2VCdXR0b24pCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5zZXRQYXJlbnQoc2VsZikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg0MDAsIDYwMCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiByZW1vdmUoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg0MDAsIDYwMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnV0dG9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQoKS5hZGRXaWRnZXQoY2xvc2VCdXR0b24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
+        <text encoding="base64">ICAgIGRlZiByZW1vdmUoc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
