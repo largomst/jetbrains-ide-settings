@@ -13,7 +13,7 @@
         <mark key="." line="183" column="15" />
         <mark key="^" line="183" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1568192174406">
+      <file name="/Python Console" timestamp="1568252159566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -68,11 +68,12 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568250095283">
-        <mark key="[" line="73" column="23" />
-        <mark key="]" line="77" column="47" />
-        <mark key="." line="77" column="47" />
-        <mark key="^" line="77" column="47" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568252343276">
+        <mark key="'" line="71" column="64" />
+        <mark key="[" line="77" column="32" />
+        <mark key="]" line="77" column="54" />
+        <mark key="." line="77" column="54" />
+        <mark key="^" line="77" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566802491004">
         <mark key="'" line="86" column="30" />
@@ -171,10 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="24" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
-      <jump line="203" column="24" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
-      <jump line="206" column="24" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
-      <jump line="212" column="16" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
       <jump line="224" column="24" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
       <jump line="227" column="26" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
       <jump line="233" column="45" filename="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" />
@@ -271,6 +268,10 @@
       <jump line="60" column="22" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="58" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="63" column="17" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="56" column="39" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="65" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="71" column="64" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -295,52 +296,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>grid</text>
+        <text>ask)</text>
       </register>
       <register name="-" type="4">
-        <text>grid</text>
+        <text>ask)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXlvdXRUYXNrXD4=</text>
+        <text encoding="base64">XDxyZW1vdmVUYXNrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzY3JvbGxBcmVhLnNldFdpZGdldFJlc2l6YWJsZShUcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQoKS5hZGRXaWRnZXQoY2xvc2VCdXR0b24pCg==</text>
+        <text encoding="base64">ICAgICAgICB3aWRnZXRUYXNrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQuCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhc2tMYXlvdXQucmVtb3ZlV2lkZ2V0KHdpZGdldFRhc2spCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdXR0b24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZWxldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQoKS5hZGRXaWRnZXQoY2xvc2VCdXR0b24pCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlZW1uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5zZXRQYXJlbnQoc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQoKS5hZGRXaWRnZXQoY2xvc2VCdXR0b24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg0MDAsIDYwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZSg0MDAsIDYwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VCdXR0b24K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5sYXlvdXQoKS5hZGRXaWRnZXQoY2xvc2VCdXR0b24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiByZW1vdmUoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0VGFzay5zZXRQYXJlbnQoc2VsZikK</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXlvdXRUYXNrXD4=</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVUYXNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXlvdXRUYXNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVUYXNrXD4=</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -348,8 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkl0ZW1TZWxlY3Rpb25DaGFuZ2VkXD4=</entry>
-        <entry>hor</entry>
         <entry>or</entry>
         <entry>ori</entry>
         <entry>horza</entry>
@@ -368,6 +367,8 @@
         <entry encoding="base64">XDxDbGFzc0NvbnRhaW5lclw+</entry>
         <entry>scro</entry>
         <entry encoding="base64">XDxsYXlvdXRUYXNrXD4=</entry>
+        <entry encoding="base64">XDxhZGRUYXNrXD4=</entry>
+        <entry encoding="base64">XDxyZW1vdmVUYXNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
