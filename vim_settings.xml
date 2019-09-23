@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1569206365527">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" timestamp="1568101175801">
         <mark key="'" line="68" column="29" />
         <mark key="[" line="183" column="17" />
@@ -39,7 +45,7 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1565942028492">
+      <file name="/a.dummy" timestamp="1569206354949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Desktop/Ship/ships.py" timestamp="1566800019519">
@@ -170,10 +176,10 @@
         <mark key="." line="633" column="3" />
         <mark key="^" line="633" column="3" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" timestamp="1569204615804">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" timestamp="1569206234921">
         <mark key="'" line="165" column="4" />
-        <mark key="[" line="60" column="30" />
-        <mark key="]" line="60" column="32" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="36" />
         <mark key="^" line="60" column="32" />
         <mark key="." line="60" column="32" />
       </file>
@@ -322,8 +328,8 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ResourcesWidget</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENoYW5nYWJsZVdpZGdldCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>ResourcesWidget</text>
@@ -332,34 +338,34 @@
         <text>flag</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAg</text>
+        <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXRDb3JlLCBRdEd1aQpmcm9tIFB5UXQ1LlF0Q29yZSBpbXBvcnQgUXQKZnJvbSBQeVF0NS5RdFdpZGdldHMgaW1wb3J0ICoKZnJvbSBweXF0Y29uZmlnIGltcG9ydCBDb25maWdNYW5hZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlzID0gW2tleSBmb3Iga2V5LCB2YWx1ZSBpbiBzZWxmLl9jb25maWcuZ2V0KCdsaXN0JykgaWYgdmFsdWUgaXMgVHJ1ZV0K</text>
+        <text encoding="base64">ICAgIENoYW5nYWJsZVdpZGdldCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlzID0gW2tleSBmb3Iga2V5LCB2YWx1ZSBpbiBzZWxmLl9jb25maWcuZ2V0KCdsaXN0JykgaWYgdmFsdWUgaXMgVHJ1ZV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxlY3RJdGVtcyhzZWxmLCBpbmRleHM6IGxpc3QpOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmJveC4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBpdGVtczoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cGRhdGVJdGVtcyhzZWxmLCBpdGVtcyk6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZWxlY3RJdGVtcyhzZWxmLCBpbmRleHM6IGxpc3QpOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmJveC4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBpdGVtczoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiB1cGRhdGVJdGVtcyhzZWxmLCBpdGVtcyk6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
