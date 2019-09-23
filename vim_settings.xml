@@ -24,11 +24,10 @@
       <file name="/fragment.py" timestamp="1561688916085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" timestamp="1569201671151">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" timestamp="1569209583351">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" timestamp="1560846663142">
         <mark key="'" line="599" column="8" />
@@ -176,11 +175,9 @@
         <mark key="^" line="633" column="3" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" timestamp="1569206234921">
-        <mark key="'" line="165" column="4" />
+        <mark key="'" line="114" column="4" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="9" column="36" />
-        <mark key="^" line="60" column="32" />
-        <mark key="." line="60" column="32" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
@@ -204,10 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="47" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
-      <jump line="365" column="20" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
-      <jump line="16" column="6" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="80" column="6" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="503" column="36" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
       <jump line="490" column="18" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
       <jump line="527" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
@@ -304,6 +297,10 @@
       <jump line="92" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
       <jump line="87" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
       <jump line="116" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
+      <jump line="60" column="25" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
+      <jump line="96" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
+      <jump line="104" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -328,10 +325,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5sbwo=</text>
+        <text encoding="base64">Y2xhc3MgVGFibGVCYXNlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>TaskTemplat</text>
       </register>
       <register name="/" type="4">
         <text>flag</text>
@@ -340,31 +337,31 @@
         <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXRDb3JlLCBRdEd1aQpmcm9tIFB5UXQ1LlF0Q29yZSBpbXBvcnQgUXQKZnJvbSBQeVF0NS5RdFdpZGdldHMgaW1wb3J0ICoKZnJvbSBweXF0Y29uZmlnIGltcG9ydCBDb25maWdNYW5hZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5sbwo=</text>
+        <text encoding="base64">Y2xhc3MgVGFibGVCYXNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwcm9wZXJ0eT1Ob25lLCBjb250YWluZXI9Tm9uZSk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb3BlcnR5ID0gcHJvcGVydHkgb3Ige30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdkZGsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRhaW5lciA9IGNvbnRhaW5lciBvciB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyC/ybHkv9gK</text>
+        <text encoding="base64">Y2xhc3MgVGFza1RhYmxlKFRhYmxlQmFzZSk6Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">vP4KY2xhc3MgQ2hhbmdhYmxlV2lkZ2V0KFFXaWRnZXQpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGl0ZW0sIHBhcmVudD1Ob25lKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKHBhcmVudCkKICAgICAgICBzZWxmLl9pdGVtID0gaXRlbQogICAgICAgIHNlbGYuX2J1dHRvbkdyb3VwID0gUUJ1dHRvbkdyb3VwKCkKICAgICAgICBzZWxmLl9jb25maWcuYWRkX2hhbmRsZXIoJ2NoZWNrYm94IGxpc3QnLCBzZWxmLl9idXR0b25Hcm91cCkKCiAgICBkZWYgc2V0KHNlbGYsIHN0YXRlOiBib29sLCBpdGVtOiBzdHIpOgogICAgICAgIHBhc3MKCiAgICBkZWYgcmVtb3ZlKHNlbGYsIGl0ZW0pOgoK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jb25maWcgPSBDb25maWdNYW5hZ2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
