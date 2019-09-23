@@ -6,11 +6,10 @@
       <file name="/start_script.py" timestamp="1560828729989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1569207070843">
-        <mark key="[" line="12" column="68" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="66" />
-        <mark key="^" line="12" column="66" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1569207706619">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" timestamp="1568101175801">
         <mark key="'" line="68" column="29" />
@@ -329,10 +328,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENoYW5nYWJsZVdpZGdldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5sbwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ResourcesWidget</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>flag</text>
@@ -341,31 +340,31 @@
         <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXRDb3JlLCBRdEd1aQpmcm9tIFB5UXQ1LlF0Q29yZSBpbXBvcnQgUXQKZnJvbSBQeVF0NS5RdFdpZGdldHMgaW1wb3J0ICoKZnJvbSBweXF0Y29uZmlnIGltcG9ydCBDb25maWdNYW5hZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENoYW5nYWJsZVdpZGdldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5sbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlzID0gW2tleSBmb3Iga2V5LCB2YWx1ZSBpbiBzZWxmLl9jb25maWcuZ2V0KCdsaXN0JykgaWYgdmFsdWUgaXMgVHJ1ZV0K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxlY3RJdGVtcyhzZWxmLCBpbmRleHM6IGxpc3QpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdkZGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmJveC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBpdGVtczoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyC/ybHkv9gK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cGRhdGVJdGVtcyhzZWxmLCBpdGVtcyk6Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">vP4KY2xhc3MgQ2hhbmdhYmxlV2lkZ2V0KFFXaWRnZXQpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGl0ZW0sIHBhcmVudD1Ob25lKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKHBhcmVudCkKICAgICAgICBzZWxmLl9pdGVtID0gaXRlbQogICAgICAgIHNlbGYuX2J1dHRvbkdyb3VwID0gUUJ1dHRvbkdyb3VwKCkKICAgICAgICBzZWxmLl9jb25maWcuYWRkX2hhbmRsZXIoJ2NoZWNrYm94IGxpc3QnLCBzZWxmLl9idXR0b25Hcm91cCkKCiAgICBkZWYgc2V0KHNlbGYsIHN0YXRlOiBib29sLCBpdGVtOiBzdHIpOgogICAgICAgIHBhc3MKCiAgICBkZWYgcmVtb3ZlKHNlbGYsIGl0ZW0pOgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jb25maWcgPSBDb25maWdNYW5hZ2VyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
