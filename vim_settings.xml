@@ -19,6 +19,12 @@
       <file name="/fragment.py" timestamp="1561688916085">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" timestamp="1569200317523">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/python/src/github.com/kbdancer/QR-DETECTOR/QR-DETECTOR Pro V4.0.py" timestamp="1560846663142">
         <mark key="'" line="599" column="8" />
         <mark key="[" line="87" column="33" />
@@ -45,6 +51,13 @@
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/.gitignore" timestamp="1567494663441">
         <mark key="[" line="128" column="6" />
+      </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" timestamp="1569199847764">
+        <mark key="a" line="223" column="0" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="^" line="223" column="0" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/PySideSummer/Chapter14/ships-delegatePyside_ans.py" timestamp="1567393427123">
         <mark key="[" line="29" column="15" />
@@ -93,11 +106,23 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configwidgets.py" timestamp="1569200308882">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/pyas/flashloader.py" timestamp="1557909367199">
         <mark key="'" line="53" column="8" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" timestamp="1568106288357">
         <mark key="'" line="520" column="14" />
+      </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/utils.py" timestamp="1569199977884">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/PySideSummer/Chapter14/richtextlineeditPyside.py" timestamp="1567393382801">
         <mark key="'" line="130" column="53" />
@@ -145,6 +170,12 @@
         <mark key="." line="633" column="3" />
         <mark key="^" line="633" column="3" />
       </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" timestamp="1569199993650">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="423" column="16" />
@@ -167,10 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="13" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/plugin/ExportDBC.py" />
-      <jump line="100" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
-      <jump line="99" column="21" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
       <jump line="501" column="18" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
       <jump line="593" column="20" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
       <jump line="505" column="13" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
@@ -267,6 +294,10 @@
       <jump line="0" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="136" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="137" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="101" column="55" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -291,13 +322,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMg1eLA79aux7DQtLPJwcsgcm9vdCArPSBrZXkgsenA+rn9s8y1xMnP0ruyvbbUz8LSu7K9svrJ+sHL07DP7C4K</text>
+        <text encoding="base64">Y2xhc3MgVGFza1dpZGdldCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZhbHVl</text>
+        <text>字</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWN0aW9uXD4=</text>
+        <text>flag</text>
       </register>
       <register name="0" type="4">
         <text>def trave(graph):
@@ -317,40 +348,40 @@
     return collection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMg1eLA79aux7DQtLPJwcsgcm9vdCArPSBrZXkgsenA+rn9s8y1xMnP0ruyvbbUz8LSu7K9svrJ+sHL07DP7C4K</text>
+        <text encoding="base64">Y2xhc3MgVGFza1dpZGdldCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb3QgKz0ga2V5ICsgJycK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWF0ZVRhc2tVaSgpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgpjbGFzcyBUYXNrOgogICAgIiIitaW49iB0YXNrILXEyv2+3dDFz6IiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgZ2xvYmFsX2NvbmZpZyk6CiAgICAgICAgc2VsZi5fZ2xvYmFsX2NvbmZpZyA9IGdsb2JhbF9jb25maWcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfcGFyc2VfdGFzayhzZWxmKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYXZlKGdycGFoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9mbGF0X2dsb2JhbF9jb25maWcgPSBnZXRfZmxhZ19kaWN0KHNlbGYuX2dsb2JhbF9jb25maWcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRyYXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMg1eLA79aux7DQtLPJwcsgcm9vdCArPSBrZXkgsenA+rn9s8y1xMnP0ruyvbbUz8LSu7K9svrJ+sHL07DP7C4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmRlZg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb3QgKz0ga2V5ICsgJycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbltyb290XSA9IGdyYXBoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-search>
+      <last-search>flag</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-pattern>
+      <last-pattern>flag</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -358,7 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Area</entry>
         <entry encoding="base64">XDxVSUdyb3VwXD4=</entry>
         <entry encoding="base64">XDxkYXRhdGltZVw+</entry>
         <entry>qs</entry>
@@ -378,6 +408,7 @@
         <entry encoding="base64">XDxjdXJyZW50X2dyYXBoXD4=</entry>
         <entry encoding="base64">XDxzdGFydF9ub2RlXD4=</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
+        <entry>flag</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
