@@ -18,7 +18,7 @@
         <mark key="." line="183" column="15" />
         <mark key="^" line="183" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1569201366216">
+      <file name="/Python Console" timestamp="1569224374417">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -174,10 +174,9 @@
         <mark key="." line="633" column="3" />
         <mark key="^" line="633" column="3" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" timestamp="1569206234921">
-        <mark key="'" line="114" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="36" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" timestamp="1569224336823">
+        <mark key="'" line="158" column="4" />
+        <mark key="^" line="59" column="7" />
       </file>
       <file name="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/as.one.py/asxcp.py" timestamp="1556352214295">
         <mark key="'" line="0" column="0" />
@@ -201,11 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="36" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
-      <jump line="490" column="18" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
-      <jump line="527" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
-      <jump line="529" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
-      <jump line="539" column="55" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
       <jump line="526" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
       <jump line="69" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="22" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
@@ -301,6 +295,11 @@
       <jump line="96" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
       <jump line="19" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
       <jump line="104" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configclass.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
+      <jump line="50" column="2" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
+      <jump line="134" column="32" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
+      <jump line="51" column="6" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
+      <jump line="152" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -325,7 +324,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgVGFibGVCYXNlOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYpOgo=</text>
       </register>
       <register name="-" type="4">
         <text>TaskTemplat</text>
@@ -337,31 +336,31 @@
         <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXRDb3JlLCBRdEd1aQpmcm9tIFB5UXQ1LlF0Q29yZSBpbXBvcnQgUXQKZnJvbSBQeVF0NS5RdFdpZGdldHMgaW1wb3J0ICoKZnJvbSBweXF0Y29uZmlnIGltcG9ydCBDb25maWdNYW5hZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgVGFibGVCYXNlOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwcm9wZXJ0eT1Ob25lLCBjb250YWluZXI9Tm9uZSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb3BlcnR5ID0gcHJvcGVydHkgb3Ige30K</text>
+        <text encoding="base64">ICAgIGRlZiBvcGVuKHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRhaW5lciA9IGNvbnRhaW5lciBvciB7fQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICBpZiBzZWxmLmN1cnJlbnRGaWxlOgogICAgICAgICAgICB3cml0ZUNvbmZpZyhzZWxmLmN1cnJlbnRGaWxlLCBzZWxmLmNvbmZpZygpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5hbWUsIF8gPSBRRmlsZURpYWxvZy5nZXRTYXZlRmlsZU5hbWUoCiAgICAgICAgICAgICAgICBzZWxmLCAiQ29uZmlnIEZpbGUgbmFtZSIsIG9zLnBhdGguYWJzcGF0aChvcy5jdXJkaXIpLCAiWUFNTCgqLnlhbWwpIgogICAgICAgICAgICApCiAgICAgICAgICAgIGlmIG5hbWU6CiAgICAgICAgICAgICAgICB3cml0ZUNvbmZpZyhuYW1lLCBzZWxmLmdldF9kYXRhKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgVGFza1RhYmxlKFRhYmxlQmFzZSk6Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IG5hbWUsIF8gPSBRRmlsZURpYWxvZy5nZXRPcGVuRmlsZU5hbWUoCiAgICAgICAgICAgIHNlbGYsICJPcGVuIENvbmZpZyBmaWxlIiwgb3MucGF0aC5hYnNwYXRoKG9zLmN1cmRpciksICJDb25maWcgZmlsZSgqLnlhbWwpIgogICAgICAgICkKICAgICAgICBpZiBuYW1lOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzZWxmLmNvbmZpZyA9IHJlYWRDb25maWcobmFtZSkKICAgICAgICAgICAgICAgIHNlbGYuY3VycmVudEZpbGUgPSBuYW1lCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgICAgIFFNZXNzYWdlQm94Lndhcm5pbmcoCiAgICAgICAgICAgICAgICAgICAgc2VsZiwgIldhcnJuaW5nISIsICJQbGVhc2UgZW5zdXJlIGNvbmZpZyBmaWxlIGZvcm1hdCByaWdodCIKICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fd3JpdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9tYXliZVNhdmUoKToK</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
