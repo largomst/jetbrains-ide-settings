@@ -68,12 +68,13 @@
         <mark key="^" line="187" column="45" />
         <mark key="." line="187" column="42" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568275921556">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" timestamp="1568283874386">
         <mark key="a" line="92" column="12" />
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="143" column="40" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+        <mark key="'" line="137" column="26" />
+        <mark key="[" line="144" column="55" />
+        <mark key="]" line="144" column="55" />
+        <mark key="." line="144" column="55" />
+        <mark key="^" line="144" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/richtextlineedit.py" timestamp="1566802491004">
         <mark key="'" line="86" column="30" />
@@ -84,12 +85,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1567387871215">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER/main.py" timestamp="1565938869284">
-        <mark key="'" line="60" column="10" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="42" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1565594819791">
         <mark key="'" line="9" column="0" />
@@ -125,10 +120,10 @@
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" timestamp="1568077256825">
         <mark key="e" line="34" column="20" />
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ship/MyShip.py" timestamp="1566816155792">
         <mark key="'" line="115" column="19" />
@@ -172,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/OSYMER.py" />
-      <jump line="176" column="25" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
       <jump line="55" column="13" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
       <jump line="46" column="0" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/plugin/ExportDBC.py" />
       <jump line="100" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/studio.py" />
@@ -272,6 +265,8 @@
       <jump line="139" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="140" column="16" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
       <jump line="0" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="136" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
+      <jump line="137" column="26" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/scm.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -296,52 +291,66 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRyYXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMg1eLA79aux7DQtLPJwcsgcm9vdCArPSBrZXkgsenA+rn9s8y1xMnP0ruyvbbUz8LSu7K9svrJ+sHL07DP7C4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cm9vdCArIGtleSArICcvJywg</text>
+        <text encoding="base64">IHZhbHVl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGFydF9ub2RlXD4=</text>
+        <text encoding="base64">XDxjb2xsZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IEFjdGl2YXRhdGlvblNwaW5Cb3g=</text>
+        <text>def trave(graph):
+    collection = {}
+
+    def trave_iter(graph, collection, root='/'):
+        for key, value in graph.items():
+            if isinstance(value, dict):
+                graph = value
+                trave_iter(graph, collection, root + key + '/')
+            else:
+                root += key + ''
+                collection[root] = value
+
+    trave_iter(graph, collection)
+
+    return collection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRyYXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMg1eLA79aux7DQtLPJwcsgcm9vdCArPSBrZXkgsenA+rn9s8y1xMnP0ruyvbbUz8LSu7K9svrJ+sHL07DP7C4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmRlZg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb3QgKz0ga2V5ICsgJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbltyb290XSA9IGdyYXBoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbgo=</text>
+        <text encoding="base64">ICAgIHRyYXZlKGdycGFoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIHRyYXZlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmRlZg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGUK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpkZWYgdHJhdmUoZ3JhcGgpOgogICAgbWFwX2RpY3QgPSB7fQoKICAgIGRlZiB0cmF2ZV9pdGVyKGdyYXBoLCBtYXBfZGljdCwgcGF0aD0nLycpOgogICAgICAgIGZvciBrZXksIHZhbHVlIGluIGdyYXBoLml0ZW1zKCk6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIGRpY3QpOgogICAgICAgICAgICAgICAgdHJhdmVfaXRlcih2YWx1ZSwgbWFwX2RpY3QsIHBhdGggKyBrZXkgKyAnLycpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwYXRoICs9IGtleSArICcnCiAgICAgICAgICAgICAgICBtYXBfZGljdFtwYXRoXSA9IHZhbHVlCgogICAgdHJhdmVfaXRlcihncmFwaCwgbWFwX2RpY3QpCiAgICByZXR1cm4gbWFwX2RpY3QK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbltyb290XSA9IGdyYXBoCg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGFydF9ub2RlXD4=</last-search>
+      <last-search encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGFydF9ub2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry>area</entry>
         <entry>Area</entry>
         <entry encoding="base64">XDxVSUdyb3VwXD4=</entry>
         <entry encoding="base64">XDxkYXRhdGltZVw+</entry>
@@ -369,6 +377,7 @@
         <entry encoding="base64">XDxjdXJyZW50X3BhdGhcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50X2dyYXBoXD4=</entry>
         <entry encoding="base64">XDxzdGFydF9ub2RlXD4=</entry>
+        <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
