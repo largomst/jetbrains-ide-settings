@@ -113,12 +113,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" timestamp="1571037008009">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" timestamp="1571040243280">
         <mark key="'" line="55" column="31" />
-        <mark key="[" line="55" column="31" />
-        <mark key="]" line="55" column="31" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="55" column="31" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="69" column="12" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configwidgets.py" timestamp="1569200308882">
         <mark key="[" line="6" column="26" />
@@ -211,12 +211,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" timestamp="1571039184174">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" timestamp="1571040353903">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+        <mark key="^" line="31" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -344,43 +344,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgVGVzdF9FdmVudDoK</text>
       </register>
       <register name="-" type="4">
-        <text>get_tasks</text>
+        <text>tasks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfdGFza3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5uZXJfZGljdFsnT3NUYXNrQWN0aXZhdGlvbiddID0gc2VsZi5hY3RpdmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcyA9IHNldCgpCiAgICAgICAgZm9yIGl0ZW0gaW4gc2VsZi5meWFtbC5pdGVtcygpOgogICAgICAgICAgICBpZiBpdGVtWzFdID09ICJPc1Rhc2siOgogICAgICAgICAgICAgICAgciA9IHNlbGYucGF0dGVybl9uYW1lLmZpbmRhbGwoaXRlbVswXSkKICAgICAgICAgICAgICAgIGlmIHI6CiAgICAgICAgICAgICAgICAgICAgdGFza3MuYWRkKHJbMF0pCiAgICAgICAgcmV0dXJuIHRhc2tzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgVGVzdF9FdmVudDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0Xy4K</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0Xwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgRXZlbnQ6CiAgICBuYW1lIDpzdHIgPSBOb25lawo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RvX2RpY3Qoc2VsZiwgY29uZmlnKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5uZXJfZGljdFsnT3NUYXNrQWN0aXZhdGlvbiddID0gc2VsZi5hY3RpdmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFza3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YWNrX3NpemU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXNrcy5hZGQoclswXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHI6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5lcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHIgPSBzZWxmLnBhdHRlcm5fbmFtZS5maW5kYWxsKGl0ZW1bMF0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19kaWN0KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBzZWxmLmZ5YW1sLml0ZW1zKCk6CiAgICAgICAgICAgIGlmIGl0ZW1bMV0gPT0gIk9zVGFzayI6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0XyA9IHtmIntzZWxmLm5hbWV9IjogeyJEZWZpbml0aW9uUmVmIjogIk9zVGFzayJ9fQo=</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcyA9IHNldCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
