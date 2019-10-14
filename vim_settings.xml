@@ -18,7 +18,7 @@
         <mark key="." line="183" column="15" />
         <mark key="^" line="183" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1571033045815">
+      <file name="/Python Console" timestamp="1571036245644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -103,7 +103,7 @@
         <mark key="." line="87" column="35" />
         <mark key="^" line="87" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567387871215">
+      <file name="/Dummy.txt" timestamp="1571036413204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1565594819791">
@@ -113,9 +113,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" timestamp="1571033163017">
-        <mark key="'" line="20" column="30" />
-        <mark key="[" line="55" column="43" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" timestamp="1571037008009">
+        <mark key="'" line="55" column="31" />
+        <mark key="[" line="55" column="31" />
+        <mark key="]" line="55" column="31" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="55" column="31" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configwidgets.py" timestamp="1569200308882">
         <mark key="[" line="6" column="26" />
@@ -208,19 +211,15 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" timestamp="1571032340363">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" timestamp="1571037049260">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="33" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="116" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="87" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="8" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="109" column="11" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="136" column="52" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
@@ -316,6 +315,11 @@
       <jump line="24" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api_utils.py" />
       <jump line="54" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" />
       <jump line="20" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" />
+      <jump line="84" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" />
+      <jump line="55" column="31" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -340,52 +344,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>smaple</text>
+        <text>get_tasks</text>
       </register>
       <register name="-" type="4">
-        <text>smaple</text>
+        <text>get_tasks</text>
       </register>
       <register name="/" type="4">
-        <text>document</text>
+        <text encoding="base64">XDxnZXRfdGFza3NcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXRDb3JlLCBRdEd1aQpmcm9tIFB5UXQ1LlF0Q29yZSBpbXBvcnQgUXQKZnJvbSBQeVF0NS5RdFdpZGdldHMgaW1wb3J0ICoKZnJvbSBweXF0Y29uZmlnIGltcG9ydCBDb25maWdNYW5hZ2VyCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5uZXJfZGljdFsnT3NUYXNrQWN0aXZhdGlvbiddID0gc2VsZi5hY3RpdmF0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSBDb25maWd1cmF0aW9uKHNlbGYucGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5uZXJfZGljdFsnT3NUYXNrQWN0aXZhdGlvbiddID0gc2VsZi5hY3RpdmF0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGFzayhuYW1lPWEpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YWNrX3NpemU6Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5lcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0b19kaWN0KHNlbGYpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWN0XyA9IHtmIntzZWxmLm5hbWV9IjogeyJEZWZpbml0aW9uUmVmIjogIk9zVGFzayJ9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgIGZvciB2YWx1ZSBpbiAoc2VsZi5hY3RpdmF0aW9uLCBzZWxmLnN0YWNrX3NpemUsIHNlbGYuc2NoZWR1bGUsIHNlbGYuZXZlbnRfcmVmLCBzZWxmLik6Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICdPc1Rhc2tBY3RpdmFpdG9uJzogc2VsZi5hY3RpdmF0aW9uLAogICAgICAgICAgICAnT3NUYXNrU3RhY2tTaXplJzogc2VsZi5zdGFja19zaXplLAogICAgICAgICAgICAnT3NUYXNrU2NoZWR1bGUnOnNlbGYuc2NoZWR1bGUsCiAgICAgICAgICAgICJPc1Rhc2tFdmVudFJlZiI6c2VsZi5ldmVudF9yZWYsCgogICAgICAgIH0KIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBvcGVuKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdmFsdWU6CiAgICAgICAgICAgICAgICBkaWN0X1snJ10K</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
       </register>
     </registers>
     <search>
-      <last-search>document</last-search>
+      <last-search encoding="base64">XDxnZXRfdGFza3NcPg==</last-search>
       <last-offset />
-      <last-pattern>document</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfdGFza3NcPg==</last-pattern>
       <last-replace>clicked\.connect</last-replace>
       <last-substitute>clicked\.connected</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qs</entry>
         <entry encoding="base64">XDxDbGFzc0NvbnRhaW5lclw+</entry>
         <entry>scro</entry>
         <entry encoding="base64">XDxsYXlvdXRUYXNrXD4=</entry>
@@ -413,6 +416,7 @@
         <entry>flag</entry>
         <entry>close</entry>
         <entry>document</entry>
+        <entry encoding="base64">XDxnZXRfdGFza3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/clicked\.connected/clicked\.connect/g</entry>
