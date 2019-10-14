@@ -18,7 +18,7 @@
         <mark key="." line="183" column="15" />
         <mark key="^" line="183" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1569224374417">
+      <file name="/Python Console" timestamp="1571033045815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1561688916085">
@@ -55,6 +55,9 @@
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/.gitignore" timestamp="1567494663441">
         <mark key="[" line="128" column="6" />
+      </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api_utils.py" timestamp="1571032915734">
+        <mark key="'" line="24" column="12" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/qjsonmodel.py" timestamp="1569199847764">
         <mark key="a" line="223" column="0" />
@@ -109,6 +112,10 @@
         <mark key="]" line="20" column="40" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" timestamp="1571033163017">
+        <mark key="'" line="20" column="30" />
+        <mark key="[" line="55" column="43" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configwidgets.py" timestamp="1569200308882">
         <mark key="[" line="6" column="26" />
@@ -201,14 +208,14 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" timestamp="1571032340363">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="23" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="15" column="7" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="95" column="24" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
-      <jump line="525" column="17" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/python/src/github.com/autoas/as/com/as.tool/config.infrastructure.system/arxml/Argui.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="91" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="90" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
       <jump line="116" column="15" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/i.py" />
@@ -303,6 +310,12 @@
       <jump line="126" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
       <jump line="120" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
       <jump line="43" column="35" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/main.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api_utils.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api_utils.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" />
+      <jump line="20" column="30" filename="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -326,11 +339,11 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>smaple</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>smaple</text>
       </register>
       <register name="/" type="4">
         <text>document</text>
@@ -339,31 +352,31 @@
         <text encoding="base64">ZnJvbSBQeVF0NSBpbXBvcnQgUXRDb3JlLCBRdEd1aQpmcm9tIFB5UXQ1LlF0Q29yZSBpbXBvcnQgUXQKZnJvbSBQeVF0NS5RdFdpZGdldHMgaW1wb3J0ICoKZnJvbSBweXF0Y29uZmlnIGltcG9ydCBDb25maWdNYW5hZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSBDb25maWd1cmF0aW9uKHNlbGYucGF0aCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">VGFzayhuYW1lPWEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYpOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBvcGVuKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYpOgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICBpZiBzZWxmLmN1cnJlbnRGaWxlOgogICAgICAgICAgICB3cml0ZUNvbmZpZyhzZWxmLmN1cnJlbnRGaWxlLCBzZWxmLmNvbmZpZygpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5hbWUsIF8gPSBRRmlsZURpYWxvZy5nZXRTYXZlRmlsZU5hbWUoCiAgICAgICAgICAgICAgICBzZWxmLCAiQ29uZmlnIEZpbGUgbmFtZSIsIG9zLnBhdGguYWJzcGF0aChvcy5jdXJkaXIpLCAiWUFNTCgqLnlhbWwpIgogICAgICAgICAgICApCiAgICAgICAgICAgIGlmIG5hbWU6CiAgICAgICAgICAgICAgICB3cml0ZUNvbmZpZyhuYW1lLCBzZWxmLmdldF9kYXRhKCkpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">ICAgIGRlZiBvcGVuKHNlbGYpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>set cb</text>
