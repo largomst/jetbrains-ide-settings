@@ -103,7 +103,7 @@
         <mark key="." line="87" column="35" />
         <mark key="^" line="87" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571036413204">
+      <file name="/Dummy.txt" timestamp="1571044604547">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1565594819791">
@@ -113,12 +113,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" timestamp="1571040243280">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/tests/test_api.py" timestamp="1571044726229">
         <mark key="'" line="55" column="31" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="69" column="12" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="62" column="15" />
+        <mark key="]" line="75" column="11" />
+        <mark key="^" line="75" column="11" />
+        <mark key="." line="75" column="11" />
       </file>
       <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/configwidgets.py" timestamp="1569200308882">
         <mark key="[" line="6" column="26" />
@@ -211,12 +211,12 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" timestamp="1571040353903">
+      <file name="$USER_HOME$/python/src/anghui.com/largomst/OSYMER/api.py" timestamp="1571044344600">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="33" />
-        <mark key="^" line="31" column="33" />
+        <mark key="[" line="77" column="27" />
+        <mark key="]" line="77" column="27" />
+        <mark key="." line="77" column="27" />
+        <mark key="^" line="95" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -343,11 +343,11 @@
           <key char="62" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdF9FdmVudDoK</text>
+      <register name="&quot;" type="4">
+        <text>event_names ==</text>
       </register>
       <register name="-" type="4">
-        <text>tasks</text>
+        <text>event_names ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfdGFza3NcPg==</text>
